@@ -1,0 +1,264 @@
+Name,Size,Alignment,Challenge,Environments,Source,Page,Movement,Special,Damage,Type
+Albatross,Small,Unaligned,0.125,Coastal,TBH,16,"walk, fly",Other 1,piercing,bird
+Albino Death Weasel,Large,Unaligned,1,"Forest, Grassland, Hill",CC,374,"walk, burrow","Keen Hearing and Smell , Charge/Pounce, Special Action 1, Special Action 2","piercing, slashing",mammal
+Allosaurus,Large,Unaligned,2,Grassland,MM,79,walk,Charge/Pounce,"piercing, slashing",dinosaur
+Amphiptere,Medium,Unaligned,3,Forest,TOB,16,"walk, climb, fly, swim","Flyby, Other 1, Multiattack 2, Special Action 1","piercing, poison",herptile
+Anghenfil,Gargantuan,Unaligned,6,Underdark,URC,181,"walk, climb","Other 1, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","piercing, acid",invertebrate
+Ankylosaurus,Huge,Unaligned,3,Grassland,MM,79,walk,Special Action 1,bludgeoning,dinosaur
+Antelope,Medium,Unaligned,0.25,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp",MC,153,walk,"Charge/Pounce, Multiattack 2","piercing, bludgeoning",mammal
+Ape,Medium,Unaligned,0.5,Forest,MM,317,"walk, climb",Multiattack 2,bludgeoning,mammal
+Archaeopteryx,Tiny,Unaligned,0.25,"Coastal, Forest, Swamp",CC,108,"walk, fly","Flyby, Multiattack 2","piercing, slashing",dinosaur
+Aurochs,Large,Unaligned,2,"Grassland, Hill, Mountain",VGM,207,walk,Charge/Pounce,piercing,mammal
+Axe Beak,Large,Unaligned,0.25,"Grassland, Hill",MM,317,walk,,slashing,bird
+Baboon,Small,Unaligned,0,"Forest, Hill",MM,318,"walk, climb",Pack Tactics,piercing,mammal
+Badger,Tiny,Unaligned,0,Forest,MM,318,"walk, burrow",Keen Smell,piercing,mammal
+Bastet Temple Cat,Small,CN,1,Urban,TOB,32,"walk, climb","Keen Smell, Innate Spellcasting, Other 1, Multiattack 2, Special Action 1","piercing, slashing",mammal
+Bat,Tiny,Unaligned,0,"Hill, Mountain, Underdark, Urban",MM,318,"walk, fly","Other 1, Keen Hearing",piercing,mammal
+Black Bear,Medium,Unaligned,0.5,Forest,MM,318,"walk, climb","Keen Smell, Multiattack 2","piercing, slashing",mammal
+Bladefish,Medium,Unaligned,5,Underwater,PCC,273,swim,"Pack Tactics, Other 1, Flyby, Water Breathing, Multiattack 2","piercing, slashing, necrotic",fish
+Blood Hawk,Small,Unaligned,0.125,"Arctic, Coastal, Forest, Grassland, Hill, Mountain",MM,319,"walk, fly","Keen Sight, Pack Tactics",piercing,bird
+Boar,Medium,Unaligned,0.25,"Forest, Grassland, Hill",MM,319,walk,"Charge/Pouce, Other 1",slashing,mammal
+Bone Crab,Small,N,0.5,"Coastal, Swamp, Underwater",TOB,40,"walk, swim","Amphibious, Camouflage, Other 1, Leap, Multiattack 2, Special Action 1",slashing,invertebrate
+Brontosaurus,Gargantuan,Unaligned,5,"Forest, Grassland",VGM,139,walk,Special Action 1,bludgeoning,dinosaur
+Brown Bear,Large,Unaligned,1,"Arctic, Forest, Hill",MM,319,"walk, climb","Keen Smell, Multiattack 2","piercing, slashing",mammal
+Bull,Large,Unaligned,0.5,"Grassland, Urban",MC,154,walk,"Other 1, Other 2, Other 3","piercing, bludgeoning",mammal
+Camel,Large,Unaligned,0.125,Desert,MM,320,walk,,bludgeoning,mammal
+Canary,Tiny,Unaligned,0,"Forest, Urban",TBH,18,"walk, fly",Other 1,piercing,bird
+Carrion Beetle,Large,N,4,"Forest, Grassland, Hill, Mountain, Underdark",TOB,52,"walk, burrow, climb","Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing, acid",invertebrate
+Cat,Tiny,Unaligned,0,"Desert, Forest, Grassland, Urban",MM,320,"walk, climb",Keen Smell,slashing,mammal
+Cave Bear,Large,Unaligned,2,"Mountain, Underdark",MM,334,"walk, swim","Keen Smell, Multiattack 2 ","piercing, slashing",mammal
+Cheetah,Medium,Unaligned,1,Grassland,MC,157,walk,"Burst of Speed, Pounce, Keen Smell",,mammal
+Cikavak,Tiny,N,0.125,Urban,TOB,58,"walk, fly",Innate Spellcasting,piercing,bird
+Cockerel,Small,Unaligned,0,"Desert, Forest, Grassland, Hill, Urban",TBH,16,"walk, fly","Other 1, Other 2",piercing,bird
+Colossal Ape,Gargantuan,Unaligned,15,"Coastal, Forest, Swamp",PCC,256,"walk, climb","Other 1, Other 2, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4",bludgeoning,mammal
+Constrictor Snake,Large,Unaligned,0.25,"Desert, Forest, Swamp, Underwater",MM,320,"walk, swim",Special Action 1,"piercing, bludgeoning",herptile
+Cow,Large,Unaligned,0.25,"Grassland, Urban",VGM,207,walk,Charge/Pounce,piercing,mammal
+Crab,Tiny,Unaligned,0,Coastal,MM,320,"walk, swim",Amphibious,bludgeoning,invertebrate
+Crane,Small,Unaligned,0,"Coastal, Swamp",MC,154,"walk, fly",Other 1,bludgeoning,bird
+Cranium Rat,Tiny,LE,0,"Underdark, Urban",VGM,133,walk,"Other 1, Other 2",piercing,mammal
+Crocodile,Large,Unaligned,0.5,"Swamp, Urban",MM,320,"walk, swim","Hold Breath, Special Action 1",piercing,herptile
+Crypt Spider,Medium,LE,2,"Underdark, Urban",CC,348,"walk, climb","Other 1, Other 2, Other 3, Other 4, Special Action 1, Special Action 2, Special Action 3","piercing, poison",invertebrate
+Deep Badger,Large,Unaligned,2,Underdark,URC,78,"swim, burrow","Keen Smell, Other 1, Multiattack 2","piercing, slashing",mammal
+Deep Rothe,Medium,Unaligned,0.25,Underdark,VGM,208,walk,"Charge/Pounce, Innate Spellcasting",piercing,mammal
+Deep Tiger Anemone,Gargantuan,Unaligned,14,Underwater,PCC,278,walk,"Other 1, Water Breathing, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","acid, piercing, poison, bludgeoning",invertebrate
+Deer,Medium,Unaligned,0,"Forest, Grassland",MM,321,walk,,piercing,mammal
+Deinonychus,Medium,Unaligned,1,"Forest, Grassland, Hill",VGM,139,walk,"Charge/Pounce, Multiattack 2, Multiattack 3","piercing, slashing",dinosaur
+Dimetrodon,Medium,Unaligned,0.25,"Coastal, Swamp",VGM,139,"walk, swim",,piercing,dinosaur
+Dinichthys,Huge,Unaligned,12,Underwater,PCC,274,swim,"Flyby, Other 1, Water Breathing, Multiattack 2","piercing, necrotic",fish
+Dire Seastar,Large,Unaligned,6,Underwater,PCC,280,"walk, climb","Other 1, Other 2, Water Breathing, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","bludgeoning, acid",invertebrate
+Dire Wolf,Large,Unaligned,1,"Forest, Hill",MM,321,walk,"Keen Hearing and Smell, Pack Tactics, Special Action 1",piercing,mammal
+Dogmole,Medium,N,1,"Mountain, Underdark",TOB,120,"walk, burrow, swim","Other 1, Other 2, Multiattack 2","piercing, slashing",mammal
+Dolphin,Medium,Unaligned,0.125,"Coastal, Underwater",VGM,208,swim,"Charge/Pounce, Hold Breath",bludgeoning,mammal
+Draft Horse,Large,Unaligned,0.25,Urban,MM,321,walk,,bludgeoning,mammal
+Dragonne,Large,Unaligned,5,"Coastal, Desert, Grassland, Hill, Mountain",MC,163,"walk, fly","Multiattack 2, Multiattack 3, Charge/Pounce, Other 1","piercing, slashing",mammal
+Drakon,Large,Unaligned,5,Coastal,TOB,157,"walk, fly, swim","Other 1, Multiattack 2, Special Action 1","acid, piercing, bludgeoning",herptile
+Dream Faun,Large,NG,4,"Coastal, Desert, Forest, Grassland, Hill, Swamp, Urban",MC,163,walk,"Other 1, Other 2, Innate Spellcasting","piercing, bludgeoning",mammal
+Eagle,Small,Unaligned,0,"Coastal, Grassland, Hill, Mountain",MM,322,"walk, fly",Keen Sight,slashing,bird
+Electric Eel,Small,Unaligned,0.25,"Coastal, Swamp, Underwater",PCC,272,"walk, swim","Hold Breath, Special Action 1","piercing, lightning",fish
+Electric Ray,Medium,Unaligned,0.125,Underwater,MC,155,swim,Other 1,"lightning, piercing",fish
+Elephant,Huge,Unaligned,4,Grassland,MM,322,walk,Charge/Pounce,"piercing, bludgeoning",mammal
+Elk,Large,Unaligned,0.25,"Forest, Grassland, Hill",MM,322,walk,Charge/Pounce,bludgeoning,mammal
+Familiar Eater,Small,NE,4,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MC,164,"walk, fly","Other 1, Other 2, Multiattack 2, Special Action 1","piercing, slashing, ability",herptile
+Fleshpod Hornet,Large,Unaligned,6,"Forest, Swamp",CC,161,"walk, fly","Charge/Pounce, Multiattack 2, Special Action 1","bludgeoning, piercing, poison, slashing",invertebrate
+Flying Snake,Tiny,Unaligned,0.125,"Desert, Forest, Grassland, Urban",MM,322,"walk, fly, swim",Flyby,"piercing, poison",herptile
+Flying Squirrel,Tiny,Unaligned,0,Forest,MC,160,"walk, climb, glide","Other 1, Keen Smell",piercing,mammal
+Forget Frog,Medium,CE,3,"Forest, Swamp",MOF,100,"walk, swim","Amphibious, Leap, Multiattack 2, Special Action 1","bludgeoning, acid, psychic",herptile
+Fox,Small,Unaligned,0,"Desert, Forest, Grassland, Mountain",MC,155,walk,Keen Senses,piercing,mammal
+Frog,Tiny,Unaligned,0,"Forest, Swamp",MM,322,"walk, swim","Amphibious, Leap",none,herptile
+Garroter Crab,Tiny,Unaligned,0.25,"Swamp, Underwater",TOB,208,"walk, swim","Amphibious, Special Action 1",slashing,invertebrate
+Gbahali/Postosuchus,Huge,Unaligned,6,"Grassland, Hill, Mountain",TOB,209,walk,"Camouflage, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",herptile
+Giant Ant,Large,Unaligned,2,"Desert, Forest, Grassland, Hill, Swamp, Underdark",TOB,23,walk,"Keen Smell, Multiattack 2, Special Action 1, Special Action 2","bludgeoning, piercing, poison",invertebrate
+Giant Ant Queen,Large,Unaligned,4,"Desert, Forest, Grassland, Hill, Swamp, Underdark",TOB,23,walk,"Keen Smell, Other 1, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","bludgeoning, piercing, poison",invertebrate
+Giant Ape,Huge,Unaligned,7,Forest,MM,323,"walk, climb",Multiattack 2,bludgeoning,mammal
+Giant Badger,Medium,Unaligned,0.25,Forest,MM,323,"walk, burrow","Keen Smell, Multiattack 2","piercing, slashing",mammal
+Giant Bat,Large,Unaligned,0.25,"Forest, Underdark",MM,323,"walk, fly","Other 1, Keen Hearing",piercing,mammal
+Giant Boar,Large,Unaligned,2,"Forest, Grassland, Hill",MM,323,walk,"Charge/Pounce, Other 1",slashing,mammal
+Giant Butterfly,Medium,NG,0.5,"Forest, Grassland",MOF,101,"walk, fly","Magic Resistance, Special Action 1",force,invertebrate
+Giant Centipede,Small,Unaligned,0.25,"Underdark, Urban",MM,323,"walk, climb",Special Action 1,"piercing, poison",invertebrate
+Giant Constrictor Snake,Huge,Unaligned,2,"Desert, Forest, Swamp, Underdark, Underwater",MM,324,"walk, swim",Special Action 1,"piercing, bludgeoning",herptile
+Giant Crab,Medium,Unaligned,0.125,Coastal,MM,324,"walk, swim","Amphibious, Special Action 1",bludgeoning,invertebrate
+Giant Crocodile,Huge,Unaligned,5,Swamp,MM,324,"walk, swim","Hold Breath, Multiattack 2, Special Action 1, Special Action 2","piercing, bludgeoning",herptile
+Giant Dragonfly,Medium,Unaligned,0.5,"Forest, Grassland",MOF,102,"walk, fly",Magic Resistance,piercing,invertebrate
+Giant Eagle,Large,NG,1,"Coastal, Grassland, Hill, Mountain",MM,324,"walk, fly","Keen Sight, Multiattack 2","piercing, slashing",bird
+Giant Elk,Huge,Unaligned,2,"Forest, Grassland, Hill, Mountain",MM,325,"walk, fly",Charge/Pounce,bludgeoning,mammal
+Giant Fire Beetle,Small,Unaligned,0,Underdark,MM,325,"walk, fly",Other 1,slashing,invertebrate
+Giant Fox,Medium,Unaligned,0.5,"Desert, Forest, Grassland, Mountain",MOF,103,walk,"Keen Hearing and Smell, Pack Tactics",piercing,mammal
+Giant Frog,Medium,Unaligned,0.25,"Forest, Swamp",MM,325,"walk, swim","Amphibious, Leap, Special Action 1, Special Action 2","piercing, acid",herptile
+Giant Goat,Large,Unaligned,0.5,"Grassland, Hill, Mountain",MM,326,walk,"Charge/Pounce, Other 1",bludgeoning,mammal
+Giant Hyena,Large,Unaligned,1,"Desert, Forest, Grassland",MM,326,walk,Other 1,piercing,mammal
+Giant Lizard,Large,Unaligned,0.25,"Coastal, Desert, Forest, Swamp, Underdark",MM,326,"walk, climb","Hold Breath, Other 1",piercing,herptile
+Giant Mantis Shrimp,Huge,Unaligned,18,"Coastal, Underwater",PCC,295,"walk, swim","Other 1, Multiattack 2, Multiattack 3, Special Action 1, Legendary","bludgeoning, thunder",invertebrate
+Giant Moray Eel,Large,Unaligned,2,"Coastal, Underwater, Swamp",PCC,272,swim,"Water Breathing, Special Action 1",piercing,fish
+Giant Moth,Small,Unaligned,0.125,"Coastal, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",CC,178,"walk, fly","Keen Smell, Special Action 1",piercing,invertebrate
+Giant Octopus,Large,Unaligned,1,Underwater,MM,326,"walk, swim","Hold Breath, Camouflage, Water Breathing, Special Action 1, Special Action 2",bludgeoning,invertebrate
+Giant Owl,Large,N,0.25,"Arctic, Forest, Hill",MM,327,"walk, fly","Flyby, Keen Hearing and Sight",slashing,bird
+Giant Poisonous Snake,Medium,Unaligned,0.25,"Desert, Forest, Grassland, Swamp, Underdark, Urban",MM,327,"walk, swim",Special Action 1,"piercing, poison",herptile
+Giant Rabbit,Medium,Unaligned,0.125,"Coastal, Forest, Grassland, Hill, Mountain",MOF,104,"walk, burrow",Keen Hearing and Smell,piercing,mammal
+Giant Rat,Small,Unaligned,0.125,"Forest, Swamp, Underdark, Urban",MM,327,walk,"Keen Smell, Pack Tactics",piercing,mammal
+Giant Scorpion,Large,Unaligned,3,Desert,MM,327,walk,"Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","bludgeoning, piercing, poison",invertebrate
+Giant Sea Horse,Large,Unaligned,0.5,Underwater,MM,328,swim,"Charge/Pounce, Water Breathing",bludgeoning,fish
+Giant Shark,Huge,Unaligned,5,Underwater,MM,328,swim,"Other 1, Water Breathing",piercing,fish
+Giant Sloth,Large,Unaligned,7,"Forest, Grassland, Hill",CC,345,"walk, climb","Other 1, Other 2, Multiattack 2, Special Action 1, Special Action 2","slashing, piercing, bludgeoning",mammal
+Giant Spider,Large,Unaligned,1,"Desert, Forest, Swamp, Underdark, Urban",MM,328,"walk, climb","Other 1, Other 2, Other 3, Special Action 1, Special Action 2","piercing, poison",invertebrate
+Giant Squid,Huge,Unaligned,5,Underwater,PCC,297,swim,"Camouflage, Water Breathing, Multiattack 2, Special Action 1, Special Action 2, Special Action 3","piercing, bludgeoning",invertebrate
+Giant Swan,Medium,Unaligned,0.125,"Coastal, Forest, Swamp",MOF,105,"walk, swim, fly","Charge/Pounce, Keen Hearing and Smell",piercing,bird
+Giant Toad,Large,Unaligned,1,"Coastal, Desert, Forest, Swamp, Underdark",MM,329,"walk, swim","Amphibious, Leap, Special Action 1, Special Action 2","piercing, poison, acid",herptile
+Giant Tortoise,Huge,Unaligned,5,"Forest, Swamp",MOF,106,walk,"Hold Breath, Other 1",piercing,herptile
+Giant Vampire Bat,Large,Unaligned,2,Underdark,CC,50,"walk, fly","Other 1, Keen Hearing, Special Action 1","piercing, necrotic",mammal
+Giant Vulture,Large,NE,1,"Desert, Grassland",MM,329,"walk, fly","Keen Sight and Smell, Pack Tactics, Multiattack 2","piercing, slashing",bird
+Giant Wasp,Medium,Unaligned,0.5,"Forest, Grassland, Urban",MM,329,"walk, fly",Special Action 1,"piercing, poison",invertebrate
+Giant Weasel,Medium,Unaligned,0.125,"Forest, Grassland, Hill",MM,329,walk,Keen Hearing and Smell,piercing,mammal
+Giant Wolf Spider,Medium,Unaligned,0.25,"Coastal, Desert, Grassland, Hill",MM,330,"walk, climb","Other 1, Other 2, Other 3, Special Action 1","piercing, poison",invertebrate
+Giraffe,Huge,Unaligned,0.25,Grassland,MC,155,walk,,bludgeoning,mammal
+Glass Gator,Large,Unaligned,1,"Coastal, Swamp, Underwater",TOB,228,"walk, swim","Amphibious, Charge/Pounce, Camouflage, Leap, Special Action 1, Special Action 2, Special Reaction","slashing, bludgeoning, poison",invertebrate
+Goat,Medium,Unaligned,0,"Grassland, Hill, Mountain, Urban",MM,330,walk,"Charge/Pounce, Other 1",bludgeoning,mammal
+Great Canal/Lockjaw Python,Huge,Unaligned,5,"Swamp, Urban",TBH,28,"walk, swim","Other 1, Special Action 1","piercing, bludgeoning, slashing",herptile
+Greate White Whale,Gargantuan,Unaligned,17,Underwater,PCC,302,swim,"Other 1, Hold Breath, Keen Hearing, Legendary, Other 2, Special Action 1","piercing, bludgeoning",mammal
+Greater Swarm of Death Butterflies,Huge,CE,6,"Swamp, Underdark",TOB,71,"walk, fly","Other 1, Swarm, Other 2, Multiattack 2, Multiattack 3, Special Action 1","piercing, poison",invertebrate
+"Grezk, the Drainer of Giants",Gargantuan,N,10,"Coastal, Desert, Forest, Grassland, Hill, Swamp, Underdark",KC,,"walk, climb","Other 1, Legendary, Other 2, Special Action 1, Special Action 2","piercing, acid, necortic",invertebrate
+Hadrosaurus,Large,Unaligned,0.25,"Grassland, Swamp",VGM,140,walk,,bludgeoning,dinosaur
+Harrowing Hawk,Small,N,1,"Arctic, Forest, Hill, Mountain",CFS,47,"walk, fly","Other 1, Other 2, Magic Resistance, Special Action 1","piercing, cold",bird
+Haunted Crow,Tiny,N,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban, Underdark",CFS,48,"walk, fly","Other 1, Magic Resistance, Other 2, Special Action 1","piercing, necrotic",bird
+Hawk,Tiny,Unaligned,0,"Coastal, Grassland, Hill, Mountain",MM,330,"walk, fly",Keen Sight,slashing,bird
+Hedgehog,Tiny,Unaligned,0,"Forest, Grassland, Urban",MC,156,walk,Other 1,piercing,mammal
+Hippocampus,Large,Unaligned,0.25,"Coastal, Underwater",PCC,277,"walk, swim","Hold Breath, Water Breathing","piercing, bludgeoning",fish
+Hippopotamus,Large,Unaligned,2,Swamp,MC,156,"walk, swim",Charge/Pounce,bludgeoning,mammal
+Hounds of the Huntsman,Large,N,1,"Arctic, Forest, Hill, Mountain",CFS,35,walk,"Swarm, Keen Hearing and Smell, Other 1, Special Action 1",piercing,mammal
+Hunter Shark,Large,Unaligned,2,Underwater,MM,330,swim,"Other 1, Water Breathing",piercing,fish
+Hyena,Medium,Unaligned,0,"Desert, Forest, Grassland, Hill",MM,331,walk,Pack Tactics,piercing,mammal
+Imperial Cobra,Small,N,1,"Desert, Forest, Grassland, Swamp Urban, Underdark",CFS,48,"walk, climb","Other 1, Other 2, Magic Resistance, Other 3, Special Action 1","piercing, poison",herptile
+Iruk,Gargantuan,CN,12,Forest,KC,,"walk, climb","Other 1, Other 2, Legendary, Other 3, Special Action 1, Special Action 2, Special Action 3, Special Action 4,Special Action 5","magical slashing, magical piercing, magical bludgeoning",mammal
+J'ba Fofi Spider,Large,Unaligned,3,Forest,TOB,362,"walk, climb","Other 1, Other 2, Other 3, Other 4, Special Action 1","piercing, poison",herptile
+Jackal,Small,Unaligned,0,"Desert, Grassland",MM,331,walk,"Keen Hearing and Smell, Pack Tactics",piercing,mammal
+Jarog,Medium,Unaligned,0.25,"Forest, Hill, Urban",MOF,107,walk,"Keen Hearing and Smell, Pack Tactics",piercing,mammal
+Kangaroo,Medium,Unaligned,1,"Forest, Grassland",MC,156,walk,"Leap, Other 1",slashing,mammal
+Killer Whale,Huge,Unaligned,3,Underwater,MM,331,swim,"Other 1, Hold Breath, Keen Hearing",piercing,mammal
+Koala,Small,Unaligned,0,Forest,MC,157,"walk, climb",Keen Smell,slashing,mammal
+Kongamato,Large,Unaligned,5,"Coastal, Swamp",TOB,265,"walk, fly","Flyby, Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",dinosaur
+Large Gable Spider,Large,Unaligned,4,Urban,TBH,55,"walk, climb","Other 1, Special Action 1, Special Action 3","piercing, poison",invertebrate
+Leonino,Tiny,Unaligned,0.125,"Coastal, Forest, Urban",CC,250,"walk, fly","Flyby, Other 1, Other 2, Special Action 1",slashing,mammal
+Leopard/Snow Leopard,Medium,Unaligned,1,"Grassland, Mountain",MC,157,walk,"Charge/Pounce, Keen Smell","piercing, slashing",mammal
+Lion,Large,Unaligned,1,"Desert, Grassland, Hill, Mountain",MM,331,walk,"Keen Smell, Pack Tactics, Charge/Pounce, Leap","piercing, slashing",mammal
+Lizard,Tiny,Unaligned,0,"Coastal, Desert, Forest, Swamp, Underdark",MM,332,"walk, climb",,piercing,herptile
+Lyme Angler,Large,Unaligned,3,Underwater,TBH,36,swim,"Other 1, Other 2, Special Action 1",piercing,fish
+Lystrosaurus,Medium,Unaligned,2,"Forest, Grassland, Hill, Swamp",CC,108,"walk, burrow",Charge/Pounce,"bludgeoning, piercing",dinosaur
+Mammoth,Huge,Unaligned,6,Arctic,MM,332,walk,Charge/Pounce,"piercing, bludgeoning",mammal
+Mastiff,Medium,Unaligned,0.125,"Forest, Hill, Urban",MM,332,walk,"Keen Hearing and Smell, Special Action 1",piercing,mammal
+Mbielu,Huge,Unaligned,3,Swamp,TOB,114,"walk, swim","Other 1, Special Action 1, Special Reaction 1",bludgeoning,dinosaur
+Medium Gable Spider,Medium,Unaligned,2,Urban,TBH,55,"walk, climb","Other 1, Special Action 1, Special Action 4","piercing, poison",invertebrate
+Megalodon,Gargantuan,Unaligned,11,Underwater,PCC,294,swim,"Other 1, Water Breathing, Special Action 1","piercing, bludgeoning",fish
+Mindclaw,Huge,Unaligned,10,"Coastal, Underwater",PCC,279,"walk, swim","Amphibious, Other 1, Multiattack 2, Special Action 1","bludgeoning, psychic",invertebrate
+Monkey/Capuchin,Tiny,Unaligned,0,Forest,MC,157,"walk, climb",Other 1,piercing,mammal
+Moon Cat,Tiny,Unaligned,0.5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MC,168,walk,"Other 1, Other 2, Other 3, Other 4",slashing,mammal
+Mule,Medium,Unaligned,0.125,"Desert, Hill, Urban",MM,333,walk,"Other 1, Other 2",bludgeoning,mammal
+Necrotic Tick,Tiny,Unaligned,0.25,Underdark,CC,275,"walk, climb","Other 1, Other 2, Special Action 1",piercing,invertebrate
+Ngobou,Large,Unaligned,5,Grassland,TOB,115,walk,"Charge/Pounce, Other 1, Other 2","piercing, bludgeoning",dinosaur
+Night Scorpion,Large,Unaligned,3,Underdark,TOB,340,walk,"Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","bludgeoning, piercing, poison",invertebrate
+Noble Stag,Large,Unaligned,3,Forest,MC,169,"walk, fly","Other 1, Multiattack 2, Multiattack 3, Other 2",slashing,mammal
+Nodosaurus,Large,Unaligned,1,Swamp,CC,109,walk,Camouflage,bludgeoning,dinosaur
+Octopus,Small,Unaligned,0,Underwater,MM,333,"walk, swim","Hold Breath, Camouflage, Water Breathing, Special Action 1, Special Action 2",bludgeoning,invertebrate
+Oliphaunt,Gargantuan,Unaligned,8,"Arctic, Desert, Grassland, Hill",CC,280,walk,"Charge/Pounce, Other 1, Multiattack 2, Special Action 1, Special Action 2","bludgeoning, piercing",mammal
+Ostrich/Emu,Large,Unaligned,0.125,"Desert, Grassland",MC,158,walk,,"slashing, piercing",bird
+Owl,Tiny,Unaligned,0,"Arctic, Forest",MM,333,"walk, fly","Flyby, Keen Hearing and Smell",slashing,bird
+Ox,Large,Unaligned,0.25,Urban,VGM,208,walk,"Other 1, Charge/Pounce",piercing,mammal
+Pachycephalosaurus,Large,Unaligned,3,Forest,SSSL,,walk,Charge/Pounce,bludgeoning,dinosaur
+Panda,Large,Unaligned,0.5,"Forest, Mountain",MC,158,"walk, climb","Keen Smell, Multiattack 2","slashing, piercing",mammal
+Panther,Medium,Unaligned,0.25,"Forest, Grassland, Hill",MM,333,"walk, climb","Keen Smell, Charge/Pounce","piercing, slashing",mammal
+Pig,Small,Unaligned,0,"Forest, Grassland, Hill, Mountain, Urban",MC,158,walk,,bludgeoning,mammal
+Pit Bull/Light Fighting Dog,Small,Unaligned,0.125,Urban,TBH,13,walk,"Other 1, Special Action 1",piercing,mammal
+Pit Mastiff/Heavy Fighting Dog,Medium,Unaligned,0.5,Urban,TBH,13,walk,"Other 1, Special Action 1",piercing,mammal
+Plesiosaurus,Large,Unaligned,2,"Coastal, Underwater",MM,80,"walk, swim",Hold Breath,piercing,dinosaur
+Poisonous Snake,Tiny,Unaligned,0.125,"Coastal, Desert, Forest, Grassland, Hill, Swamp",MM,334,"walk, swim",Special Action 1,"piercing, poison",herptile
+Polar Bear,Large,Unaligned,2,"Arctic, Underdark",MM,334,"walk, swim","Keen Smell, Multiattack 2 ","piercing, slashing",mammal
+Pony,Medium,Unaligned,0.125,Urban,MM,335,"walk, swim",,bludgeoning,mammal
+Pteranodon,Medium,Unaligned,0.25,"Coastal, Grassland, Mountain",MM,80,"walk, fly",Flyby,piercing,dinosaur
+Pygmy Killer Whale,Medium,Unaligned,0.5,"Coastal, Underwater",MC,154,swim,"Charge/Pounce, Pack Tactics, Other 1, Other 2",bludgeoning,mammal
+Quetzalcoatlus,Huge,Unaligned,2,"Coastal, Hill, Mountain",VGM,140,"walk, fly","Other 1, Flyby",piercing,dinosaur
+Quipper,Tiny,Unaligned,0,Underwater,MM,335,swim,"Other 1, Water Breathing",piercing,fish
+Raccoon,Tiny,Unaligned,0,"Forest, Urban",MC,159,"walk, climb","Other, Keen Smell","slashing, piercing",mammal
+Rageipede,Small,Unaligned,2,"Forest, Underdark, Urban",CC,310,walk,"Camouflage, Other 1, Multiattack 2, Multiattack 3, Special Attack 1","piercing, poison",invertebrate
+Rat,Tiny,Unaligned,0,"Swamp, Urban",MM,335,walk,Keen Smell,piercing,mammal
+Raven,Tiny,Unaligned,0,"Hill, Swamp, Urban",MM,335,"walk, fly",Other 1,piercing,bird
+Ravenous Urchin,Medium,Unaligned,0.5,Underwater,PCC,318,swim,"Special Action 1, Special Action 2","bludgeoning, piercing",invertebrate
+Ravic,Small,LG,0.5,"Grassland, Urban",MC,170,"walk, fly","Keen Hearing and Sight, Other 1, Pack Tactics",piercing,bird
+Red Panda,Small,Unaligned,0.125,"Forest, Mountain",MC,158,"walk, climb","Other 1, Keen Smell",slashing,mammal
+Red Queen,Large,Unaligned,4,"Forest, Grassland",CC,352,"walk, glide","Pack Tactics Other 1, Multiattack 2, Special Action 1",slashing,
+Red-Banded Line Spider,Tiny,Unaligned,0.25,"Forest, Urban",TOB,363,"walk, climb","Other 1, Other 2, Special Action 1, Special Action 2","piercing, poison",invertebrate
+Reef Shark,Medium,Unaligned,0.5,Underwater,MM,336,swim,"Pack Tactics, Water Breathing",piercing,fish
+Rhinoceros,Large,Unaligned,2,Grassland,MM,336,walk,Charge/Pounce,bludgeoning,mammal
+Riding Horse,Large,Unaligned,0.25,"Grassland, Urban",MM,336,walk,,bludgeoning,mammal
+Rimewing Giant Moth,Small,Unaligned,0.25,"Arctic, Mountain",CC,178,"walk, fly","Keen Smell, Special Action 1",piercing,invertebrate
+Robin/Sparrow/Tiny Bird,Tiny,Unaligned,0,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MC,154,"walk, fly",,piercing,bird
+Rockling,Tiny,Unaligned,0,Desert,MC,172,"walk, burrow","Camouflage, Other 1","piercing, acid",invertebrate
+Rothe,Large,Unaligned,0.25,Grassland,VGM,208,walk,Charge/Pounce,piercing,mammal
+Saber-toothed Tiger,Large,Unaligned,2,"Arctic, Mountain",MM,336,walk,"Keen Smell, Charge/Pounce","piercing, slashing",mammal
+Sand Spider,Large,Unaligned,7,"Desert, Grassland",TOB,364,"walk, burrow","Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","piercing, poison",invertebrate
+Savager,Large,Unaligned,8,"Arctic, Forest, Hill, Mountain",TOB,338,"walk, climb","Other 1, Other 2, Multiattack 2","piercing, slashing",mammal
+Scorpion,Tiny,Unaligned,0,Desert,MM,337,walk,Special Action 1,"piercing, poison",invertebrate
+Sea Horse,Tiny,Unaligned,0,,MM,337,swim,Water Breathing,none,fish
+Sea Serpent,Gargantuan,Unaligned,12,Underwater,PCC,290,"walk, swim","Other 1, Legendary, Other 2, Water Breathing, Multiattack 2","piercing, bludgeoning",fish
+Serpopard,Large,Unaligned,4,"Coastal, Grassland, Hill, Mountain, Swamp",TOB,342,"walk, swim","Other 1, Multiattack 2, Multiattack 3, Multiattck 4, Special Action 1","piercing, slashing",mammal
+Shadow Wolf,Large,Unaligned,2,"Forest, Mountain, Underdark",CSF,,walk,"Keen Hearing and Smell, Pack Tactics, Special Actions 1","piercing, cold",mammal
+Sheep,Medium,Unaligned,0,"Grassland, Urban",MC,159,walk,Other 1,bludgeoning,mammal
+Shockwing Giant Moth,Small,Unaligned,1,"Forest, Grassland, Hill",CC,179,"walk, fly","Keen Smell, Other 1, Multiattack 2, Special Action 1","lightning, piercing",invertebrate
+Shoreline Scrapper,Large,Unaligned,4,"Coastal, Swamp, Underwater",CC,330,"walk, swim","Amphibious, Other 1, Other 2, Multiattack 2, Special Action 1, Special Reaction 1",slashing,invertebrate
+Skildpadder,Gargantuan,Unaligned,11,Underdark,URC,193,walk,"Other 1, Other 2, Multiattack 2, Multiattaack 3, Special Action 1","bludgeoning, piercing",herptile
+Skunk,Tiny,Unaligned,0,"Desert, Forest, Grassland",MC,159,walk,Other 1,piercing,mammal
+Small Gable Spider,Small,Unaligned,0.5,Urban,TBH,54,"walk, climb","Other 1, Special Action 1, Special Action 1","piercing, poison",invertebrate
+Snow Cat,Medium,Unaligned,0.25,"Arctic, Hill, Mountain, Underdark, Urban",CC,346,"walk, climb","Keen Senses, Other 1, Snow Camouflage","piercing, slashing",mammal
+Sootwing Giant Moth,Small,Unaligned,0.25,"Forest, Grassland, Hill, Mountain",CC,178,"walk, fly","Keen Smell, Special Action 1","piercing, fire",invertebrate
+Sough-Eel,Huge,Unaligned,5,Underwater,TBH,52,"walk, swim","Other 1, Special Action 1, Special Action 2",piercing,fish
+Spark Seeker,Tiny,N,1,"Coastal, Grassland, Hill, Mountain",CFS,50,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance, Other 2","piercing, lightning",fish
+Spider,Tiny,Unaligned,0,"Desert, Forest, Swamp, Underdark, Urban",MM,337,"walk, climb","Other 1, Other 2, Other 3, Special Action 1","piercing, poison",invertebrate
+Spinosaurus,Gargantuan,Unaligned,13,Swamp,TOB,116,"walk, swim","Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Legendary","piercing, slashing, bludgeoning",dinosaur
+Squirrel,Tiny,Unaligned,0,Forest,MC,159,"walk, climb","Other 1, Keen Smell",piercing,mammal
+Stegosaurus,Huge,Unaligned,4,"Forest, Grassland",VGM,140,walk,,piercing,dinosaur
+Stench Kow,Large,Unaligned,0.25,"Grassland, Urban",VGM,208,walk,"Charge/Pounce, Other 1",piercing,mammal
+Stirge,Tiny,Unaligned,0.125,"Coastal, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MM,284,"walk, fly",Special Action 1,piercing,invertebrate
+Stygian Fat-Tailed Scorpion,Tiny,Unaligned,3,Desert,TOB,340,"walk, climb","Multiattack 2, Multiattack 3, Special Action 1","bludgeoning, piercing, poison",invertebrate
+Suturefly,Tiny,Unaligned,0.25,Forest,TOB,372,"walk, fly","Camouflage, Other 1, Special Action 1",piercing,invertebrate
+Svird Siege Slug,Huge,Unaligned,5,Underdark,URC,193,"walk, climb","Other 1, Other 2","bludgeoning, acid",invertebrate
+Svirf Riding Slug,Medium,Unaligned,0.5,Underdark,URC,192,"walk, climb","Other 1, Other 2, Other 3","piercing, slashing, bludgeoning",invertebrate
+Swamp Adder,Small,Unaligned,0.25,Swamp,TOB,354,walk,"Camouflage, Special Action 1","piercing, poison",herptile
+Swarm of Bats,Medium,Unaligned,0.25,"Hill, Mountain, Underdark, Urban",MM,337,fly,"Other 1, Keen Hearing, Swarm",piercing,mammal
+Swarm of Beetles,Medium,Unaligned,0.5,"Desert, Forest, Grassland, Hill, Swamp, Underdark, Urban",MM,338,"walk, climb, burrow",Swarm,piercing,invertebrate
+Swarm of Cats,Huge,Unaligned,4,"Desert, Forest, Grassland, Urban",CC,58,walk,"Other 1, Keen Senses, Swarm",piercing,mammal
+Swarm of Centipedes,Medium,Unaligned,0.5,"Desert, Forest, Grassland, Hill, Swamp, Underdark, Urban",MM,338,"walk, climb",Swarm,piercing,invertebrate
+Swarm of Cranium Rats,Medium,LE,5,"Underdark, Urban",VGM,133,walk,"Other 1, Innate Spellcasting, Swarm, Other 2",piercing,mammal
+Swarm of Death Butterflies,Large,CE,4,"Swamp, Underdark",TOB,71,"walk, fly","Other 1, Swarm, Other 2, Multiattack 2, Special Action 1","piercing, poison",invertebrate
+Swarm of Flame Eaters,Medium,Unaligned,2,Underdark,CC,158,fly,"Other 1, Swarm, Multiattack 2","fire, piercing",mammal
+Swarm of Manabane Scarabs,Medium,Unaligned,4,Desert,TOB,374,"walk, burrow, climb","Swarm, Other 1, Other 2, Other 3, Special Action 1",piercing,invertebrate
+Swarm of Poisonous Snakes,Medium,Unaligned,2,"Forest, Swamp",MM,338,"walk, swim","Swarm, Special Action 1","piercing, poison",herptile
+Swarm of Prismatic Beetles,Medium,Unaligned,3,"Forest, Swamp",TOB,375,"walk, burrow, fly","Swarm, Other 1, Special Action 1","piercing, poison",invertebrate
+Swarm of Quippers,Medium,Unaligned,1,Underwater,MM,338,swim,"Other 1, Swarm, Water Breathing",piercing,fish
+Swarm of Rats,Medium,Unaligned,0.25,"Swamp, Urban",MM,339,walk,"Keen Smell, Swarm",piercing,mammal
+Swarm of Ravenous Urchins,Medium,Unaligned,1,Underwater,PCC,316,swim,"Other 1, Swarm, Special Action 1",piercing,invertebrate
+Swarm of Ravens,Medium,Unaligned,0.25,"Forest, Hill, Swamp, Urban",MM,339,"walk, fly",Swarm,piercing,bird
+Swarm of Rot Grubs,Medium,Unaligned,0.5,"Swamp, Underdark",VGM,208,"walk, climb","Swarm, Special Action 1",piercing,invertebrate
+Swarm of Spiders,Medium,Unaligned,0.5,"Desert, Forest, Grassland, Hill, Swamp, Underdark, Urban",MM,338,"walk, climb","Swarm, Other 1, Other 2, Other 3",piercing,invertebrate
+Swarm of Wasps,Medium,Unaligned,0.5,"Desert, Forest, Grassland, Hill, Swamp, Underdark, Urban",MM,338,"walk, fly",Swarm,piercing,invertebrate
+Swarm of Wharflings,Large,Unaligned,4,"Coastal, Underwater, Urban",TOB,407,"walk, climb, swim","Swarm, Special Action 1, Special Action 2",piercing,herptile
+Tapir,Large,Unaligned,0.25,"Forest, Swamp",MC,160,walk,Keen Smell,bludgeoning,mammal
+Terrier,Tiny,Unaligned,0,Urban,TBH,14,walk,Keen Senses,"piercing, bludgeoning, slashing",mammal
+Terror Bird,Large,Unaligned,2,"Forest, Grassland",CC,352,walk,"Pack Tactics, Other 1, Special Action 1",slashing,bird
+Therizinosaurus,Huge,Unaligned,5,"Desert, Forest",SSSL,,walk,Multiattack 2,slashing,dinosaur
+Tiger,Large,Unaligned,1,"Forest, Grassland",MM,339,walk,"Keen Smell, Charge/Pounce","piercing, slashing",mammal
+Tiny Gable Spider,Tiny,Unaligned,0.25,Urban,TBH,54,"walk, climb","Other 1, Special Action 1, Special Action 2","piercing, poison",invertebrate
+Titanoboa,Gargantuan,Unaligned,12,"Forest, Swamp",TOB,382,"walk, climb, swim","Other 1, Other 2, Multiattack 2, Special Action 1, Special Action 2","piercing, acid, bludgeoning",herptile
+Triceratops,Huge,Unaligned,5,Grassland,MM,80,walk,Charge/Pounce,"piercing, bludgeoning",dinosaur
+Turkey/Peacock/Small Bird,Small,Unaligned,0,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MC,153,"walk, fly",,piercing,bird
+Turtle,Tiny,Unaligned,0,"Coastal, Swamp, Underwater",MC,160,walk,Other 1,piercing,herptile
+Tyrannosaurus Rex,Huge,Unaligned,8,Grassland,MM,80,walk,"Multiattack 2, Special Action 1","piercing, bludgeoning",dinosaur
+Velociraptor,Tiny,Unaligned,0.25,"Forest, Grassland",VGM,140,walk,"Pack Tactics, Multiattack 2","piercing, slashing",dinosaur
+Vulture,Medium,Unaligned,0,"Desert, Grassland, Hill",MM,339,"walk, fly","Keen Sight and Smell, Pack Tactics",piercing,bird
+Walrus,Large,Unaligned,2,"Coastal, Underwater",MC,160,"walk, swim",Keen Smell,"slashing, bludgeoning",mammal
+War Ostrich,Large,Unaligned,0.5,"Desert, Grassland",TOB,307,walk,"Leap, Other 1, Multiattack 2",bludgeoning,bird
+Warhorse,Large,Unaligned,0.5,Urban,MM,340,walk,Charge/Pounce,bludgeoning,mammal
+Weasel,Tiny,Unaligned,0,"Forest, Grassland, Hill",MM,340,walk,Keen Hearing and Smell,piercing,mammal
+Wharfling,Tiny,Unaligned,0.125,"Coastal, Underwater, Urban",TOB,407,"walk, climb, swim","Special Action 1, Special Action 2",piercing,herptile
+Wolf,Medium,Unaligned,0.25,"Forest, Grassland, Hill",MM,341,walk,"Keen Hearing and Smell, Pack Tactics, Special Action 1",piercing,mammal
+Yak/Bison/Large Herd Animal,Large,Unaligned,0.5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MC,156,walk,"Other 1, Other 2",bludgeoning,mammal
+Ychen Bannog,Gargantuan,Unaligned,11,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain",TOB,413,walk,"Other 1, Other 2, Other 3, Multiattack 2, Special Action 1, Special Action 2","piercing, bludgeoning, thunder",mammal
+"Ykcor, the Windstorm",Gargantuan,N,9,Forest,KC,,"walk, fly","Other 1, Legendary, Other 2, Flyby, Charge/Pounce",piercing,mammal
+Young Spinosaurus,Huge,Unaligned,5,Swamp,TOB,117,"walk, swim","Other 1, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",dinosaur
+Zanskaran/Black Viper,Large,Unaligned,1,"Forest, Grassland",TOB,354,"walk, climb, swim",Special Action 1,"piercing, poison",herptile
