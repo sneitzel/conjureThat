@@ -1,15 +1,19 @@
-conjureAnimals(beasts) #Randomly selects any beast from any source of appropriate CR - may the randomizer gods smile upon thee
-conjureAnimals(beasts, cr=2, environment=c("Urban", "Underdark", "Swamp")) #How I typically use it - randomly selects an environment-appropriate beast of the desired CR
-conjureAnimals(beasts, cr=2, environment=c("Urban", "Underdark", "Swamp"), fullList=T) #Generates the entire table of above options, can be a handy reference
-conjureAnimals(beasts, source=c("MM", "VGM")) #Official books only
-conjureAnimals(beasts, excludeSpecial="Pack Tactics") #For when you DM really just doesn't want you to have wolves
-conjureAnimals(beasts, includeSpecial="Multiattack 2", maxSpecial=3) #For when I want to chomp things multiple times, but not with anything with too many special abilities
-conjureAnimals(beasts, environment=c("Coastal", "Swamp", "Underwater"), includeSpecial="Amphibious") #Randomly selects a creature appropriate for a semi-aquatic fight
-conjureAnimals(beasts, environment="Forest", type=c("bird", "mammal", "herptile", "invertebrate"), randomization=0.5) #Randomly selects a forest beast, no dinosaurs or fish allowed, favoring the least complicated options
-conjureAnimals(beasts, excludeDamage=c("bludgeoning", "piercing", "slashing"), randomization=0.5) #For the enemies with resistance to regular attacks while still favoring the most simple options
-conjureAnimals(beasts, environment="Forest", maxList=39, fullList=T, randomization=0.5) #Generates a weighted table of the 39 least complicated forest beasts, could be rolled on using 2d20
+#Here are examples of some of the possible ways to use the function once you've defined it below:
 
-setwd("C:/Users/Sarah/Downloads/D&D")  #Edit this with the path to the folder where you stored the Beast CSV, make sure to use front slashes
+conjureAnimals(beasts) #1. Randomly selects any beast from any source of appropriate CR - may the randomizer gods smile upon thee
+conjureAnimals(beasts, source=c("MM", "VGM"), excludeSpecial="Swarm") #2. Same as 1, but official books only and no swarms
+conjureAnimals(beasts, cr=2, environment=c("Urban", "Underdark", "Swamp")) #3. How I typically use it - randomly selects an environment-appropriate beast of the desired CR
+conjureAnimals(beasts, cr=2, environment=c("Urban", "Underdark", "Swamp"), fullList=T) #4. Same as 3, but provides the entire list of options rather than 1 beast
+conjureAnimals(beasts, excludeSpecial="Pack Tactics") #5. For when you DM really just doesn't want you to have wolves
+conjureAnimals(beasts, includeSpecial="Multiattack 2", maxSpecial=3) #6. For when I want to chomp things multiple times, but not with anything with too many special abilities
+conjureAnimals(beasts, environment=c("Coastal", "Swamp", "Underwater"), includeSpecial="Amphibious") #7. Randomly selects a creature appropriate for a semi-aquatic fight
+conjureAnimals(beasts, movement="fly") #8. Fly, my pretties, fly - seriously, no walkers allowed
+conjureAnimals(beasts, environment="Forest", type=c("bird", "mammal", "herptile", "invertebrate"), randomization=0.5) #9. Randomly selects a forest beast, no dinosaurs or fish allowed, favoring the least complicated options
+conjureAnimals(beasts, excludeDamage=c("bludgeoning", "piercing", "slashing"), randomization=0.5) #10. For when the enemies have resistance to regular attacks but you still want to favor the most simple options
+conjureAnimals(beasts, environment="Forest", maxList=39, fullList=T, randomization=0.5) #11. Generates a weighted table of the 39 least complicated forest beasts, could be rolled on using 2d20
+
+
+setwd("C:/Users/Sarah/Documents/GitHub/conjureThat")  #Edit this with the path to the folder where you stored the Beast CSV; make sure to use front slashes
 
 #Run this section of code to import the Beast CSV and set up the resulting object for the function
 
@@ -22,7 +26,8 @@ for(i in 1:nrow(beasts)){
 	beasts$Damage[[i]]<-strsplit(beasts$Damage[[i]], ", ")[[1]]
 }
 
-#Run code from here to end of script to define Conjure Animals function
+
+#Run this section of code from here to end of script to define the Conjure Animals function
 
 conjureAnimals<-function(df, spellLevel=3,
 size=c("Tiny", "Small", "Medium", "Large", "Huge"),

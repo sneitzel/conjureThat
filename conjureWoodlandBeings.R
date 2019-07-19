@@ -1,6 +1,7 @@
 conjureWoodlandBeings(fey)
 
-setwd("C:/Users/Sarah/Downloads/D&D") #Edit this with the path to the folder where you stored the Fey CSV
+
+setwd("C:/Users/Sarah/Downloads/D&D") #Edit this with the path to the folder where you stored the Fey CSV; make sure to use forward slashes
 
 #Run this section of code to import the Fey CSV and set up the resulting object for the function
 
@@ -13,7 +14,8 @@ for(i in 1:nrow(fey)){
 	fey$Damage[[i]]<-strsplit(fey$Damage[[i]], ", ")[[1]]
 }
 
-#Run code from here to end of script to define Conjure Woodland Beings function
+
+#Run this section of code from here to end of script to define the Conjure Woodland Beings function
 
 conjureWoodlandBeings<-function(df, spellLevel=4,
 size=c("Tiny", "Small", "Medium", "Large", "Huge"),
