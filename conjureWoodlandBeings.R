@@ -17,6 +17,19 @@ for(i in 1:nrow(fey)){
 
 #Run this section of code from here to end of script to define the Conjure Woodland Beings function
 
+#Guide to arguments:
+#df = the list/data frame to filter/sort/draw from
+#spellLevel = the level at which you're casting the spell; used to determine how many creatures you summon
+#cr = the possible challenge ratings you want to summon from; default is all possible CRs minus those less than 0.25
+#environment = the beast you're looking to summon must have at least one of these environment tags
+#source = the possible books you want to summon from; default is all books in original CSV with fey of CR 2 or less
+#movement =
+#type = 
+#v fix these
+#include/excludeName = used to filter out beasts without/with the given word or phrase in its name
+#include/excludeAlignment = used to filter out beasts without/with the given alignment
+
+
 conjureWoodlandBeings<-function(df, spellLevel=4,
 size=c("Tiny", "Small", "Medium", "Large", "Huge"),
 cr=c(0.25, 0.5, 1, 2),
