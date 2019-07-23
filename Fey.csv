@@ -1,187 +1,189 @@
 Name,Size,Alignment,Challenge,Environments,Source,Page,Movement,Special,Damage,Type
-Alp,Small,CE,1,Urban,CC,14,walk,"Other 1, Shapechanger, Other 2, Innate Spellcasting, Special Action 1",bludgeoning,shapechanger
-Spirit Flower,Small,CG,6,Desert,MC,174,walk,"Other 1, Innate Spellcasting, Other 2, Other 3",bludgeoning,humanesque
-Dryad,Medium,N,1,Forest,MM,121,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Other 1, Special Action 1",bludgeoning,humanesque
-Centaur Mage,Large,NG,4,"Forest, Grassland",MOF,13,walk,"Innate Spellcasting, Magic Resistance",bludgeoning,monsteresque
-Dryad Queen,Large,N,5,Forest,MOF,22,walk,"Innate Spellcasting, Magic Resistance, Other 1, Speak with Beasts and Plants, Multiattack 2",bludgeoning,humanesque
-The Elder Tree,Huge,N,24,Forest,MOF,23,none,"Other 1, Other 2, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Multiattack 4, Multiattack 5, Special Action 1, Special Action 2",bludgeoning,unique
-Harvest Maiden,Medium,CE,9,"Forest, Grassland",MOF,45,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Special Action 1, Special Action 2",bludgeoning,humanesque
-Log Shadow,Medium,CN,0.5,"Forest, Swamp",MOF,52,fly,"Other 1, Magic Resistance, Special Action 1",bludgeoning,monsteresque
-Nymph,Medium,CN,4,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Underwater",MOF,59,"walk, swim","Amphibious, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Special Action 1",bludgeoning,humanesque
-Pond of Reflection,Huge,CE,2,"Forest, Grassland, Hill",MOF,65,none,"Other 1, Magic Resistance, Special Action 1",bludgeoning,elementalesque
-The Storyweaver,Medium,CN,8,"Arctic, Coastal, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,84,walk,"Innate Spellcasting, Other 1, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2",bludgeoning,unique
-Thresholder,Large,Unaligned,9,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,87,walk,"Other 1, Magic Resistance, Multiattack 2, Multiattack 3",bludgeoning,humanesque
-Tree of Dread,Huge,CE,10,"Forest, Swamp",MOF,90,walk,"Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1",bludgeoning,plantesque
-Wild Horse,Large,CN,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,95,walk,"Other 1, Keen Smell, Multiattack 2, Special Action 1",bludgeoning,animalesque
-Mountain Queen,Large,CN,13,Mountain,SSSL,,"walk, burrow","Other 1, Other 2, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1",bludgeoning,unique
-Domovoi,Medium,CN,4,"Desert, Underdark, Urban",TOB,120,walk,"Innate Spellcasting, Multiattack 2",bludgeoning,monsteresque
-Hulking Whelp,Huge,CN,5,"Forest, Grassland, Hill, Urban",TOB,252,walk,"Other 1, Other 2, Other 3, Multiattack 2, Special Reaction 1",bludgeoning,shapechanger
-Pombero,Medium,CN,3,"Forest, Hill, Mountain, Underdark, Urban",TOB,313,walk,"Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3",bludgeoning,monsteresque
 Boggle,Small,CN,0.125,"Forest, Hill, Underdark, Urban",VGM,128,"walk, climb","Other 1, Other 2, Keen Smell, Special Action 1",bludgeoning,monsteresque
-Korred,Small,CN,7,Forest,VGM,168,"walk, burrow","Other 1, Innate Spellcasting, Camouflage, Other 2, Multiattack 2",bludgeoning,elementalesque
-Bheur Hag,Medium,CE,7,Arctic,VGM,160,walk,"Other 1, Other 2, Innate Spellcasting, Special Action 1","bludgeoning, cold",monsteresque
-Red Unicorn,Large,CE,4,"Desert, Forest, Grassland, Mountain",MOF,94,walk,"Charge/Pounce, Other 1, Other 2, Innate Spellcasting, Magic Resistance, Multiattack 2","bludgeoning, fire",animalesque
-Abominable Beauty,Medium,NE,11,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Urban",TOB,11,walk,"Multiattack 2, Special Action 1, Special Action 2, Special Action 3","bludgeoning, fire",humanesque
-Skeleton King,Medium,CE,24,"Desert, Forest, Grassland, Swamp",MOF,80,"walk, climb","Innate Spellcasting, Magical Resistance, Other 1, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","bludgeoning, necrotic",unique
-Dau,Small,CN,4,Desert,TOB,70,"walk, fly","Magic Resistance, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 2","bludgeoning, necrotic",humanesque
-Mirager,Medium,NE,3,Desert,TOB,291,walk,"Shapechanger, Innate Spellcasting, Other 1, Special Action 1, Special Action 2","bludgeoning, necrotic",shapechanger
-Satyr,Medium,CN,0.5,Forest,MM,267,walk,Magic Resistance,"bludgeoning, piercing",monsteresque
-Prince of the Pipes,Medium,CN,7,"Forest, Grassland, Hill, Mountain",MOF,66,walk,"Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1","bludgeoning, piercing",unique
-Royal Stag,Huge,NG,4,Forest,MOF,73,walk,"Charge/Pounce, Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2","bludgeoning, piercing",animalesque
-Green Unicorn,Large,CN,4,Forest,MOF,93,walk,"Camouflage, Innate Spellcasting, Magic Resistance, Multiattack 2","bludgeoning, piercing",animalesque
-Baba Yaga,Medium,CN,20,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,46,"walk, fly","Other 1, Other 2, Other 3, Legendary, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3, Special Reaction 1","bludgeoning, piercing, necrotic",unique
-Clurichaun,Tiny,CN,0.25,"Grassland, Hill, Urban",TOB,67,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance","bludgeoning, piercing, slashing",humanesque
-Forest Hag,Medium,CE,7,"Forest, Swamp",MOF,44,walk,"Innate Spellcasting, Magic Resistance, Other 1, Speak with Beasts and Plants, Multiattack 2, Special Action 1, Special Action 2","bludgeoning, poison, slashing",monsteresque
-Sandman,Medium,CE,4,"Desert, Grassland, Urban",MOF,75,walk,"Other 1, Magic Resistance, Other 2, Special Action 1, Special Action 2","bludgeoning, psychic",monsteresque
-Dream Squire,Medium,N,2,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,134,walk,"Other 1, Other 2, Multiattack 2, Special Reaction 1","bludgeoning, psychic, piercing",humanesque
-Armored Centaur,Large,NG,4,"Forest, Grassland",MOF,12,walk,"Charge/Pounce, Multiattack 2, Special Reaction 1","bludgeoning, slashing",monsteresque
-Huntaur,Large,CE,3,"Arctic, Forest, Grassland, Hill, Swamp, Mountain",MOF,49,walk,"Charge/Pounce, Multiattack 2, Special Reaction 1","bludgeoning, slashing, piercing",monsteresque
-Living Shade,Medium,N,0.25,"Arctic, Coastal, Forest, Grassland, Hill, Mountain, Swamp, Urban",CC,255,walk,"Other 1, Other 2, Other 3",cold,monsteresque
-Frost Lord,Medium,NE,17,"Arctic, Mountain",MOF,35,walk,"Other 1, Innate Spellcasting, Magic Resistance, Other 2, Special Action 1, Special Action 2, Special Reaction 1",cold,unique
-Swarm of Sluagh,Medium,CE,3,"Arctic, Hill, Mountain, Underdark",TOB,376,"walk, fly","Swarm, Other 1, Other 2, Special Action 1",cold,monsteresque
-Crystal Queen/Queen of Giants,Medium,NE,16,"Arctic, Mountain",TOB,198,walk,"Innate Spellcasting, Legendary, Other 1, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","cold, magical slashing, magical piercing",unique
-Brewer Fairy,Small,CN,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MC,162,walk,"Other 1, Other 2, Innate Spellcasting, Special Action 1, Special Action 2",fire,humanesque
-Woodshade,Tiny,NE,5,Forest,MC,175,fly,"Other 1, Other 2, Innate Spellcasting","fire, cold, poison, bludgeoning, acid, piercing, thunder, psychic",monsteresque
-The Lady of the Swans,Medium,NG,12,"Coastal, Swamp, Underwater",MOF,51,"walk, swim","Amphibious, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Special Action 1, Special Action 2, Special Reaction 1",force,unique
-Sylph,Medium,NG,1,"Desert, Forest, Grassland, Hill, Mountain",MOF,86,"walk, fly","Innate Spellcasting, Magic Resistance, Special Action 1",force,elementalesque
-Berchta,Medium,LN,16,"Coastal, Forest, Mountain, Swamp, Urban",CC,154,"walk, swim, fly","Other 1, Legendary, Shapechanger, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","force, slashing",shapechanger
 Azza Gremlin,Small,N,0.25,"Desert, Grassland, Hill, Mountain",TOB,28,"walk, fly","Other 1, Special Action 1, Special Reaction 1",lightning,elementalesque
-River King,Medium,CN,16,"Coastal, Swamp, Underwater",TOB,196,"walk, swim","Amphibious, Innate Spellcasting, Legendary, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","lightning, magical slashing, bludgeoning",unique
-Spire Walker,Tiny,CN,3,"Desert, Grassland, Hill, Mountain, Urban",TOB,367,walk,"Other 1, Innate Spellcasting, Other 2, Special Action 1","lightning, piercing",elementalesque
-Rainman,Medium,CE,4,"Coastal, Forest, Grassland, Hill, Swamp, Urban",MOF,70,"walk, swim","Other 1, Magic Resistance, Multiattack 2, Special Action 1",magical bludgeoning,elementalesque
-Black Unicorn,Large,CE,5,Forest,MOF,92,walk,"Charge/Pounce, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Action 2, Legendary","magical bludgeoning, magical piercing, necrotic",animalesque
-Queen of Serpents,Medium,LN,12,"Desert, Forest, Mountain, Swamp",CC,34,"walk, climb, swim","Other 1, Keen Smell, Legendary, Magic Resistance, Other 2, Other 3, Shapechanger, Other 4, Innate Spellcasting Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","magical bludgeoning, magical piercing, poison",shapechanger
-Frog Witch,Medium,CE,14,"Swamp, Underwater",MOF,34,walk,"Amphibious, Innate Spellcasting, Leap, Magic Resistance, Other 1, Special Action 1, Special Action 2, Special Action 3","magical bludgeoning, magical piercing, poison, thunder",monsteresque
-Queen of Witches,Large,N,17,Mountain,TOB,194,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance, Legendary, Other 2, Multiattack 2, Special Action 1","magical bludgeoning, radiant, force",unique
-Reynard,Medium,CN,12,"Forest, Mountain, Underdark",CC,156,walk,"Legendary, Shapechanger, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Reaction 1",magical piercing,shapechanger
-Riverwind,Medium,CN,11,"Forest, Grassland, Hill",MOF,72,walk,"Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1","magical piercing, bludgeoning",unique
-Brother Ox,Huge,LN,16,Mountain,CC,25,walk,"Other 1, Charge/Pounce, Legendary, Magic Resistance, Rejuvenation, Shapechanger, Other 2, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1","magical piercing, magical bludgeoning, necrotic",shapechanger
-Bat King,Small,N,13,"Forest, Mountain, Swamp, Underdark, Urban",CC,22,"walk, fly","Other 1, Keen Hearing, Legendary, Magic Resistance, Other 2, Shapechanger, Other 3, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Action 3","magical piercing, magical bludgeoning, thunder",shapechanger
-Mouse King,Small,N,11,Urban,CC,29,"walk, climb","Keen Sight, Legendary, Magic Resistance, Other 1, Other 2, Shapechanger, Other 3, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","magical piercing, poison",shapechanger
-Lord of the Hunt,Medium,LN,18,"Forest, Grassland, Hill",TOB,188,walk,"Other 1, Innate Spellcasting, Legendary, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1","magical piercing, poison",unique
-Ijiraq,Medium,CN,7,"Arctic, Forest, Mountain",CC,225,walk,"Other 1, Multiattack 2, Special Action 1, Special Action 2","magical piercing, poison, magical slashing",monsteresque
-Queen Titania,Medium,CG,23,Forest,MOF,88,"walk, fly","Innate Spellcasting, Other 1, Magical Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1","magical piercing, radiant",unique
-Lord of Vultures,Large,NG,12,"Desert, Mountain, Underdark",CC,26,"walk, fly","Other 1, Other 2, Legendary, Magic Resistance, Pack Tactics, Other 3, Shapechanger, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","magical piercing, radiant, magical slashing, bludgeoning",shapechanger
-Orchid,Medium,CN,12,"Forest, Grassland, Hill",MOF,64,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2",magical slashing,unique
-The Queen of Darkness,Medium,CE,25,"Arctic, Forest, Hill, Mountain, Swamp",MOF,69,"walk, fly","Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","magical slashing, lightning",unique
-Queen of Birds,Large,CN,14,Mountain,CC,31,"walk, fly","Other 1, Flyby, Legendary, Magic Resistance, Other 2, Shapechanger, Other 3, Other 4, Innate Spellcasting Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","magical slashing, lightning, thunder, magical piercing",shapechanger
-The Oak Lord,Large,CG,16,"Forest, Grassland, Hill",MOF,60,walk,"Innate Spellcasting, Magic Resistance, Shapechanger, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1","magical slashing, magical bludgeoning",unique
-King Oberon,Medium,CG,20,"Forest, Grassland, Hill",MOF,61,walk,"Innate Spellcasting, Magic Resistance, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","magical slashing, radiant",unique
-Pixie,Tiny,NG,0.25,Forest,MM,253,"walk, fly","Magic Resistance, Innate Spellcasting, Special Action 1",none,humanesque
-The Hatter,Medium,CN,9,"Forest, Swamp",MOF,47,walk,"Fey Ancestry, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4",none,unique
-Nereid,Medium,CN,7,"Coastal, Underwater",PCC,287,"walk, swim","Innate Spellcasting, Magic Resistance, Other 1, Other 2, Other 3, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4",none,humanesque
-The Iron Teeth of Baba Yaga,Tiny,CN,2,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,47,fly,Innate Spellcasting,piercing,unique
-Foxin,Small,N,0.5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,163,walk,"Keen Senses, Other 1, Special Action 1, Special Action 2",piercing,animalesque
-Kitsune,Small,CN,2,"Arctic, Forest, Grassland, Hill, Mountain, Swamp",CC,236,walk,"Shapechanger, Innate Spellcasting, Multiattack 2",piercing,shapechanger
-Morko,Small,CE,0.25,Urban,CC,270,walk,"Magic Resistance, Special Action 1, Special Action 2",piercing,humanesque
-Knight Aaleear (8 HD),Small,G,2,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
-Marshal Aalear (12 HD),Small,G,3,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
-Master Aaleear (16 HD),Small,G,4,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
-Page Aaleear (1 HD),Small,G,0.25,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
-Squire Aaleear (4 HD),Small,G,1,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
-Mantrid,Tiny,NE,2,"Desert, Forest, Grassland, Swamp",MC,167,"walk, fly","Other 1, Keen Sight, Innate SPellcasting, Other 2, Other 3, Special Action 1",piercing,monsteresque
 Blink Dog,Medium,LG,0.25,Forest,MM,318,walk,"Keen Hearing and Smell, SPecial Action 1",piercing,animalesque
-Boggart,Medium,CE,3,"Forest, Grassland, Swamp, Urban",MOF,10,walk,"Other 1, Innate Spellcasting",piercing,shapechanger
-Brownie,Small,CG,0.5,"Forest, Grassland, Swamp",MOF,11,walk,"Fey Ancestry, Innate Spellcasting, Special Action 1",piercing,humanesque
-Changeling,Medium,Unaligned,0.5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MOF,14,walk,"Other 1, Other 2, Shapechanger",piercing,shapechanger
+Bloodsprite,Tiny,NE,0.25,"Forest, Grassland, Hill, Swamp, Urban",MC,161,"walk, fly",Other 1,"piercing, poison",humanesque
+Clurichaun,Tiny,CN,0.25,"Grassland, Hill, Urban",TOB,67,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance","bludgeoning, piercing, slashing",humanesque
 Doubt Trout,Tiny,Unaligned,0.25,"Coastal, Swamp, Underwater",MOF,16,walk,"Other 1, Magic Resistance, Other 2, Water Breathing",piercing,animalesque
-Fey Ranger Elf,Medium,CG,5,"Forest, Grassland, Hill",MOF,26,walk,"Other 1, Other 2, Fey Ancestry, Innate Spellcasting, Keen Hearing and Sight, Magic Resistance, Multiattack 2, Special Reaction 1",piercing,elf
-Fey-Touched,Medium,CN,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MOF,33,walk,"Other 1, Other 2",piercing,humanesque
+Living Shade,Medium,N,0.25,"Arctic, Coastal, Forest, Grassland, Hill, Mountain, Swamp, Urban",CC,255,walk,"Other 1, Other 2, Other 3",cold,monsteresque
+Morko,Small,CE,0.25,Urban,CC,270,walk,"Magic Resistance, Special Action 1, Special Action 2",piercing,humanesque
+Page Aaleear (1 HD),Small,G,0.25,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
+Pixie,Tiny,NG,0.25,Forest,MM,253,"walk, fly","Magic Resistance, Innate Spellcasting, Special Action 1",none,humanesque
+Sprite,Tiny,NG,0.25,Forest,MM,283,"walk, fly","Special Action 1, Special Action 2, Special Action 3",slashing,humanesque
+Autumn Faerie,Tiny,CE,0.5,"Forest, Grassland, Swamp",MOF,28,"walk, fly","Innate Spellcasting, Magic Resistance","slashing, poison",humanesque
+Brownie,Small,CG,0.5,"Forest, Grassland, Swamp",MOF,11,walk,"Fey Ancestry, Innate Spellcasting, Special Action 1",piercing,humanesque
+Bucca,Tiny,NE,0.5,"Hill, Mountain, Underdark",TOB,46,"walk, fly","Flyby, Other 1, Innate Spellcasting, Special Action 1","piercing, ability",monsteresque
+Changeling,Medium,Unaligned,0.5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MOF,14,walk,"Other 1, Other 2, Shapechanger",piercing,shapechanger
+Darkling,Small,CN,0.5,"Forest, Swamp, Underdark, Urban",VGM,134,walk,"Other 1, Other 2",piercing,humanesque
+Foxin,Small,N,0.5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,163,walk,"Keen Senses, Other 1, Special Action 1, Special Action 2",piercing,animalesque
+Fraughashar,Small,NE,0.5,"Arctic, Mountain",TOB,206,walk,"Other 1, Multiattack 2","piercing, bludgeoning",monsteresque
 Lake Gnome,Tiny,CG,0.5,"Coastal, Hill, Mountain, Swamp, Underwater",MOF,39,"walk, swim","Amphibious, Other 1, Innate Spellcasting, Magic Resistance, Camouflage, Special Action 1",piercing,gnome
+Log Shadow,Medium,CN,0.5,"Forest, Swamp",MOF,52,fly,"Other 1, Magic Resistance, Special Action 1",bludgeoning,monsteresque
+Miremal,Small,CE,0.5,Swamp,TOB,292,"walk, swim","Amphibious, Camouflage, Other 1, Multiattack 2, Special Action 1, Special Reaction 1","slashing, piercing",monsteresque
+Rum Gremlin,Tiny,CE,0.5,"Coastal, Swamp, Urban",TOB,239,"walk, climb, swim","Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1","piercing, slashing",monsteresque
+Satyr,Medium,CN,0.5,Forest,MM,267,walk,Magic Resistance,"bludgeoning, piercing",monsteresque
+Skitterwing,Tiny,NE,0.5,"Coastal, Swamp",MC,173,"walk, fly","Other 1, Other 2, Special Action 1",slashing,monsteresque
+Spring Faerie,Tiny,CG,0.5,"Forest, Grassland, Hill",MOF,29,"walk, fly","Innate Spellcasting, Magic Resistance","piercing, lightning",humanesque
+Summer Faerie,Tiny,CG,0.5,"Desert, Forest, Grassland",MOF,30,"walk, fly","Innate Spellcasting, Magic Resistance","piercing, fire",humanesque
+Wild Hound,Medium,CN,0.5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,96,walk,"Other 1, Keen Hearing and Smell, Pack Tactics, Special Action 1, Special Action 2",piercing,animalesque
+Winter Faerie,Tiny,NE,0.5,"Arctic, Forest, Mountain",MOF,31,"walk, fly","Innate Spellcasting, Magic Resistance","piercing, cold",humanesque
+Alp,Small,CE,1,Urban,CC,14,walk,"Other 1, Shapechanger, Other 2, Innate Spellcasting, Special Action 1",bludgeoning,shapechanger
+Boloti,Tiny,NE,1,"Swamp, Underwater",TOB,38,"walk, swim","Amphibious, Innate Spellcasting, Other 1, Special Action 1","piercing, bludgeoning",elementalesque
+Brewer Fairy,Small,CN,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MC,162,walk,"Other 1, Other 2, Innate Spellcasting, Special Action 1, Special Action 2",fire,humanesque
+Chernomoi,Tiny,N,1,"Hill, Mountain, Urban",TOB,55,"walk, fly","Innate Spellcasting, Special Action 1","slashing, thunder",humanesque
+Dimcat,Tiny,CN,1,"Forest, Urban, Underdark",CFS,45,"walk, climb","Other 1, Magic Resistance, Other 2, Other 3, Special Action 1","piercing, psychic",animalesque
+Dryad,Medium,N,1,Forest,MM,121,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Other 1, Special Action 1",bludgeoning,humanesque
+Fey-Touched,Medium,CN,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MOF,33,walk,"Other 1, Other 2",piercing,humanesque
+Gerridae,Large,NE,1,"Coastal, Swamp",TOB,212,"walk, climb, swim","Other 1, Other 2, Multiattack 2","piercing, slashing",animalesque
 Gremlin,Tiny,CE,1,"Forest, Underdark, Urban",MOF,43,walk,"Innate Spellcasting, Magic Resistance, Pack Tactics, Other 1, Other 2",piercing,humanesque
 Hater,Small,CE,1,"Forest, Grassland, Swamp, Urban",MOF,46,walk,"Fey Ancestry, Innate Spellcasting",piercing,humanesque
-Night Hound,Medium,CE,2,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MOF,58,walk,"Other 1, Magic Resistance, Multiattack 2, Special Action 1",piercing,animalesque
-Swan Maiden,Small,CG,3,"Coastal, Swamp, Underwater",MOF,85,"walk, swim","Amphibious, Shapechanger, Magic Resistance, Special Action 1",piercing,shapechanger
-Wild Hound,Medium,CN,0.5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,96,walk,"Other 1, Keen Hearing and Smell, Pack Tactics, Special Action 1, Special Action 2",piercing,animalesque
-Wild Rider,Medium,CN,5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,97,walk,"Shapechanger, Multiattack 2, Multiattack 3, Special Action 1",piercing,humanesque
-Aridni,Small,NE,5,"Desert, Forest, Grassland, Hill, Swamp, Underdark, Urban",TOB,26,"walk, fly","Flyby, Magic Resistance, Innate Spellcasting, Special Action 1",piercing,humanesque
-Duskthorn Dryad,Medium,C,3,Forest,TOB,160,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Other 1, Other 2",piercing,humanesque
-Eel Hound,Medium,N,2,"Coastal, Swamp, Underwater",TOB,166,"walk, swim","Amphibious, Pack Tactics, Other 1, Other 2, Special Action 1",piercing,animalesque
-Lorelei,Medium,CE,5,"Coastal, Swamp, Underwater",TOB,279,"walk, swim","Other 1, Other 2, Other 3, Innate Spellcasting, Special Action 1, Special Action 2",piercing,humanesque
-Scheznyki,Small,CE,6,"Hill, Mountain, Underdark",TOB,339,"walk, climb, swim","Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Multiattack 4",piercing,humanesque
-Selang,Medium,CE,4,"Swamp, Underdark",TOB,341,walk,"Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2",piercing,monsteresque
-Vila,Medium,LN,5,Forest,TOB,400,walk,"Other 1, Other 2, Other 3, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2",piercing,humanesque
-Darkling,Small,CN,0.5,"Forest, Swamp, Underdark, Urban",VGM,134,walk,"Other 1, Other 2",piercing,humanesque
 Quickling,Tiny,CE,1,Forest,VGM,187,walk,"Other 1, Other 2, Multiattack 2, Multiattack 3",piercing,monsteresque
-Bucca,Tiny,NE,0.5,"Hill, Mountain, Underdark",TOB,46,"walk, fly","Flyby, Other 1, Innate Spellcasting, Special Action 1","piercing, ability",monsteresque
-Boloti,Tiny,NE,1,"Swamp, Underwater",TOB,38,"walk, swim","Amphibious, Innate Spellcasting, Other 1, Special Action 1","piercing, bludgeoning",elementalesque
-Fraughashar,Small,NE,0.5,"Arctic, Mountain",TOB,206,walk,"Other 1, Multiattack 2","piercing, bludgeoning",monsteresque
-Mirror Hag,Medium,CN,6,"Forest, Hill, Swamp",TOB,243,"walk, fly","Innate Spellcasting, Magic Resistance, Other 1, Multiattack 2, Special Action 1","piercing, bludgeoning, ability",monsteresque
-Quickstep,Small,NE,5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,308,walk,"Other 1, Fey Ancestry, Other 2, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1","piercing, cold",humanesque
-Winter Faerie,Tiny,NE,0.5,"Arctic, Forest, Mountain",MOF,31,"walk, fly","Innate Spellcasting, Magic Resistance","piercing, cold",humanesque
-Snow Queen,Medium,CE,20,"Arctic, Mountain",MOF,82,walk,"Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Reaction 1","piercing, cold",unique
+Squire Aaleear (4 HD),Small,G,1,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
+Sylph,Medium,NG,1,"Desert, Forest, Grassland, Hill, Mountain",MOF,86,"walk, fly","Innate Spellcasting, Magic Resistance, Special Action 1",force,elementalesque
+Symphonic Songbird,Tiny,N,1,"Forest, Grassland, Hill, Mountain, Swamp",CFS,52,"walk, fly","Magic Resistance, Other 1, Other 2, Special Action 1","piercing, psychic",animalesque
+Wild Horse,Large,CN,1,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,95,walk,"Other 1, Keen Smell, Multiattack 2, Special Action 1",bludgeoning,animalesque
 Beli,Small,NE,2,"Arctic, Mountain",TOB,35,"walk, fly","Other 1, Other 2, Flyby, Innate Spellcasting, Special Action 1","piercing, cold",elementalesque
-Ice Maiden,Medium,LE,6,"Arctic, Mountain",TOB,254,walk,"Other 1, Other 2, Other 3, Other 4, Magic Resistance, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4","piercing, cold",elementalesque
-Queen of Night and Magic,Medium,NE,21,"Arctic, Mountain, Underdark",TOB,192,"walk, fly","Legendary, Magic Resistance, Other 1, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3, Special Reaction 1","piercing, cold, radiant",unique
-Summer Faerie,Tiny,CG,0.5,"Desert, Forest, Grassland",MOF,30,"walk, fly","Innate Spellcasting, Magic Resistance","piercing, fire",humanesque
-Spring Faerie,Tiny,CG,0.5,"Forest, Grassland, Hill",MOF,29,"walk, fly","Innate Spellcasting, Magic Resistance","piercing, lightning",humanesque
+Darklng Elder,Medium,CN,2,"Forest, Swamp, Underdark, Urban",VGM,134,walk,"Other 1, Multiattack 2, Special Action 1","piercing, radiant",humanesque
+Dream Squire,Medium,N,2,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,134,walk,"Other 1, Other 2, Multiattack 2, Special Reaction 1","bludgeoning, psychic, piercing",humanesque
+Eel Hound,Medium,N,2,"Coastal, Swamp, Underwater",TOB,166,"walk, swim","Amphibious, Pack Tactics, Other 1, Other 2, Special Action 1",piercing,animalesque
+Fey Caterpillar,Large,CN,2,"Forest, Swamp",MOF,32,walk,"Other 1, Special Action 1","piercing, poison",animalesque
+Kallikantzaros,Small,CE,2,"Forest, Swamp",CC,233,walk,"Fey Ancestry, Other 1, Other 2, Multiattack 2, Special Action 1","slashing, piercing",monsteresque
+Kappa,Small,CN,2,"Swamp, Underwater",CC,234,"walk, swim","Amphibious, Other 1, Other 2, Other 3, Other 4, Multiattack 2, Special Action 1",slashing,monsteresque
+Kitsune,Small,CN,2,"Arctic, Forest, Grassland, Hill, Mountain, Swamp",CC,236,walk,"Shapechanger, Innate Spellcasting, Multiattack 2",piercing,shapechanger
+Knight Aaleear (8 HD),Small,G,2,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
+Mantrid,Tiny,NE,2,"Desert, Forest, Grassland, Swamp",MC,167,"walk, fly","Other 1, Keen Sight, Innate SPellcasting, Other 2, Other 3, Special Action 1",piercing,monsteresque
+Meenlock,Small,NE,2,"Forest, Swamp, Urban",VGM,170,walk,"Other 1, Other 2, Other 3, Special Action 1",slashing,monsteresque
+Night Hound,Medium,CE,2,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",MOF,58,walk,"Other 1, Magic Resistance, Multiattack 2, Special Action 1",piercing,animalesque
+Pond of Reflection,Huge,CE,2,"Forest, Grassland, Hill",MOF,65,none,"Other 1, Magic Resistance, Special Action 1",bludgeoning,elementalesque
+Sea Hag,Medium,CE,2,"Coastal, Underwater",MM,179,"walk, swim","Amphibious, Other 1, Special Action 1, Special Action 2",slashing,monsteresque
+Shellycoast,Medium,NE,2,"Arctic, Coastal, Swamp, Mountain, Urban",TOB,346,"walk, swim","Innate Spellcasting, Other 1, Other 2, Other 3, Multiattack 2, Special Action 1","piercing, slashing",monsteresque
+Sprite Knight,Tiny,NG,2,"Forest, Grassland, Hill, Swamp",MOF,83,"walk, fly","Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Action 3","slashing, piercing",humanesque
+The Iron Teeth of Baba Yaga,Tiny,CN,2,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,47,fly,Innate Spellcasting,piercing,unique
+Vile Barber,Small,CE,2,"Swamp, Urban",TOB,401,walk,"Other 1, Other 2, Other 3, Other 4, Other 5, Other 6, Multiattack 2, Special Action 1","slashing, necrotic",monsteresque
+Wind Weasel,Medium,CN,2,Forest,CC,375,walk,"Other 1, Flyby, Other 2, Shapechanger, Other 3, Multiattack 2, Special Action 1","piercing, slashing",shapechanger
+Boggart,Medium,CE,3,"Forest, Grassland, Swamp, Urban",MOF,10,walk,"Other 1, Innate Spellcasting",piercing,shapechanger
+Duskthorn Dryad,Medium,C,3,Forest,TOB,160,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Other 1, Other 2",piercing,humanesque
+Everflower,Medium,CN,3,"Forest, Grassland, Hill, Urban",MOF,27,"walk, fly","Other 1, Other 2, Multiattack 2, Special Action 1",slashing,humanesque
+Far Darrig,Small,N,3,"Arctic, Forest, Grassland, Hill, Mountain",TOB,179,walk,"Innate Spellcasting, Multiattack 2, Multiattack 3, Multiattack 4, Special Action 1, Special Action 2",slashing,humanesque
+Fey Knight Elf,Medium,CG,3,"Forest, Grassland, Hill",MOF,24,walk,"Fey Ancestry, Magic Resistance, Multiattack 2, Special Reaction 1, Special Reaction 2","slashing, radiant, piercing",elf
+Green Hag,Medium,NE,3,"Forest, Hill, Swamp",MM,177,walk,"Amphibious, Innate Spellcasting, Other 1, Special Action 1, Special Action 2",slashing,monsteresque
+Huntaur,Large,CE,3,"Arctic, Forest, Grassland, Hill, Swamp, Mountain",MOF,49,walk,"Charge/Pounce, Multiattack 2, Special Reaction 1","bludgeoning, slashing, piercing",monsteresque
+Korrigan,Small,CN,3,Forest,CC,242,walk,"Other 1, Innate Spellcasting, Special Action 1, Special Action 2, Special Reaction 1","piercing, poison",humanesque
+Marshal Aalear (12 HD),Small,G,3,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
+Mirager,Medium,NE,3,Desert,TOB,291,walk,"Shapechanger, Innate Spellcasting, Other 1, Special Action 1, Special Action 2","bludgeoning, necrotic",shapechanger
+Pombero,Medium,CN,3,"Forest, Hill, Mountain, Underdark, Urban",TOB,313,walk,"Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3",bludgeoning,monsteresque
+Redcap,Small,CE,3,"Forest, Hill, Swamp",VGM,188,walk,"Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","slashing, bludgeoning",humanesque
+Snow Hag,Medium,NE,3,"Arctic, Mountain",CC,214,walk,"Other 1, Innate Spellcasting, Special Action 1, Special Action 2","slashing, cold",monsteresque
+Spire Walker,Tiny,CN,3,"Desert, Grassland, Hill, Mountain, Urban",TOB,367,walk,"Other 1, Innate Spellcasting, Other 2, Special Action 1","lightning, piercing",elementalesque
+Swan Maiden,Small,CG,3,"Coastal, Swamp, Underwater",MOF,85,"walk, swim","Amphibious, Shapechanger, Magic Resistance, Special Action 1",piercing,shapechanger
+Swarm of Sluagh,Medium,CE,3,"Arctic, Hill, Mountain, Underdark",TOB,376,"walk, fly","Swarm, Other 1, Other 2, Special Action 1",cold,monsteresque
+Water Nymph,Medium,CN,3,"Coastal, Swamp, Underwater",MC,172,"walk, swim","Other 1, Multiattack 2, Other 2, Other 3, Special Action 1","slashing, piercing",humanesque
+Armored Centaur,Large,NG,4,"Forest, Grassland",MOF,12,walk,"Charge/Pounce, Multiattack 2, Special Reaction 1","bludgeoning, slashing",monsteresque
+Azeban,Medium,CN,4,Forest,CC,44,"walk, climb","Other 1, Magic Resistance, Innate Spellcasting, Multiattack 1, Special Action 1","piercing, slashing, thunder",animalesque
+Bereginyas,Tiny,NE,4,"Hill, Mountain",TOB,36,"walk, fly","Multiattack 2, Special Action 1",slashing,elementalesque
+Centaur Mage,Large,NG,4,"Forest, Grassland",MOF,13,walk,"Innate Spellcasting, Magic Resistance",bludgeoning,monsteresque
+Dau,Small,CN,4,Desert,TOB,70,"walk, fly","Magic Resistance, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 2","bludgeoning, necrotic",humanesque
+Domovoi,Medium,CN,4,"Desert, Underdark, Urban",TOB,120,walk,"Innate Spellcasting, Multiattack 2",bludgeoning,monsteresque
+Green Unicorn,Large,CN,4,Forest,MOF,93,walk,"Camouflage, Innate Spellcasting, Magic Resistance, Multiattack 2","bludgeoning, piercing",animalesque
+Master Aaleear (16 HD),Small,G,4,"Forest, Grassland, Hill, Urban",MC,161,walk,"Innate Spellcasting, Other 1",piercing,humanesque
+Nymph,Medium,CN,4,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Underwater",MOF,59,"walk, swim","Amphibious, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Special Action 1",bludgeoning,humanesque
+Rainman,Medium,CE,4,"Coastal, Forest, Grassland, Hill, Swamp, Urban",MOF,70,"walk, swim","Other 1, Magic Resistance, Multiattack 2, Special Action 1",magical bludgeoning,elementalesque
+Red Unicorn,Large,CE,4,"Desert, Forest, Grassland, Mountain",MOF,94,walk,"Charge/Pounce, Other 1, Other 2, Innate Spellcasting, Magic Resistance, Multiattack 2","bludgeoning, fire",animalesque
+Royal Stag,Huge,NG,4,Forest,MOF,73,walk,"Charge/Pounce, Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2","bludgeoning, piercing",animalesque
+Sandman,Medium,CE,4,"Desert, Grassland, Urban",MOF,75,walk,"Other 1, Magic Resistance, Other 2, Special Action 1, Special Action 2","bludgeoning, psychic",monsteresque
+Selang,Medium,CE,4,"Swamp, Underdark",TOB,341,walk,"Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2",piercing,monsteresque
+Siren,Medium,CE,4,"Coastal, Underwater",MOF,78,"walk, swim","Amphibious, Innate Spellcasting, Shapechanger, Multiattack 2, Special Action 1",slashing,monsteresque
+Water Horse,Medium,CE,4,"Coastal, Swamp, Underwater",CC,373,"walk, swim","Amphibious, Shapechanger, Multiattack 2, Special Action 1","piercing, slashing",shapechanger
+Yeth Hound,Large,NE,4,"Forest, Grassland, Hill",VGM,201,"walk, fly","Keen Hearing and Smell, Other 1, Other 1, Special Action 1","piercing, psychic",animalesque
+Arcane Stalker,Medium,CE,5,"Forest, Grassland, Swamp, Underdark, Urban",MOF,8,walk,"Innate Spellcasting, Magic Resistance, Other 1, Special Action 1, Special Reaction 1",slashing,monsteresque
+Aridni,Small,NE,5,"Desert, Forest, Grassland, Hill, Swamp, Underdark, Urban",TOB,26,"walk, fly","Flyby, Magic Resistance, Innate Spellcasting, Special Action 1",piercing,humanesque
+Black Unicorn,Large,CE,5,Forest,MOF,92,walk,"Charge/Pounce, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Action 2, Legendary","magical bludgeoning, magical piercing, necrotic",animalesque
+Dryad Queen,Large,N,5,Forest,MOF,22,walk,"Innate Spellcasting, Magic Resistance, Other 1, Speak with Beasts and Plants, Multiattack 2",bludgeoning,humanesque
+Eleinomae,Medium,CE,5,"Coastal, Swamp",TOB,168,"walk, swim","Other 1, Other 2, Innate Spellcasting, Multiattack 2, Multiattack 3, Multiattack 3, Special Action 1","slashing, poison",humanesque
+Fatespinner,Medium,N,5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CSF,,"walk, climb","Other 1, Other 2, Other 3, Other 4, Other 5, Multiattack 2, Multiattack 3, Multiattack 4, Multiattack 5, Special Action 1, Special action 2","slashing, piercing, poison",animalesque
+Fey Ranger Elf,Medium,CG,5,"Forest, Grassland, Hill",MOF,26,walk,"Other 1, Other 2, Fey Ancestry, Innate Spellcasting, Keen Hearing and Sight, Magic Resistance, Multiattack 2, Special Reaction 1",piercing,elf
+Hulking Whelp,Huge,CN,5,"Forest, Grassland, Hill, Urban",TOB,252,walk,"Other 1, Other 2, Other 3, Multiattack 2, Special Reaction 1",bludgeoning,shapechanger
+Ink Lynx,Large,CN,5,"Forest, Urban, Underdark",CFS,26,"walk, climb","Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Action 1","slashing, piercing, psychic",animalesque
+Kikimora,Medium,CN,5,Urban,TOB,260,walk,"Magic Resistance, Innate Spellcasting, Multiattack 2, Special Action 1",slashing,monsteresque
+Lorelei,Medium,CE,5,"Coastal, Swamp, Underwater",TOB,279,"walk, swim","Other 1, Other 2, Other 3, Innate Spellcasting, Special Action 1, Special Action 2",piercing,humanesque
+Quickstep,Small,NE,5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,308,walk,"Other 1, Fey Ancestry, Other 2, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1","piercing, cold",humanesque
+Shayonna the Gaunt,Medium,CE,5,"Coastal, Underwater",PCC,317,"walk, swim","Other 1, Multiattack 2, Special Action 1, Special Action 2, Special Action 3",slashing,unique
+Undine,Medium,CN,5,"Coastal, Swamp, Underwater",CC,362,"walk, swim","Amphibious, Other 1, Shapechanger, Other 2, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2","psychic, bludgeoning, cold, ability",shapechanger
+Vila,Medium,LN,5,Forest,TOB,400,walk,"Other 1, Other 2, Other 3, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2",piercing,humanesque
+Wild Rider,Medium,CN,5,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,97,walk,"Shapechanger, Multiattack 2, Multiattack 3, Special Action 1",piercing,humanesque
+Woodshade,Tiny,NE,5,Forest,MC,175,fly,"Other 1, Other 2, Innate Spellcasting","fire, cold, poison, bludgeoning, acid, piercing, thunder, psychic",monsteresque
 Xiphus,Small,CE,5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,388,walk,"Other 1, Other 2, Other 3, Other 4, Multiattack 2, Multiattack 3, Special Reaction 1","piercing, lightning, necrotic",humanesque
 Ancient Redcap,Medium,NE,6,"Forest, Grassland, Hill",TOB,325,walk,"Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Action 1","piercing, necrotic",humanesque
-Blood Hag,Medium,CE,11,"Swamp, Mountain, Underdark",TOB,242,"walk, climb, swim","Other 1, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","piercing, necrotic, slashing",monsteresque
-Korrigan,Small,CN,3,Forest,CC,242,walk,"Other 1, Innate Spellcasting, Special Action 1, Special Action 2, Special Reaction 1","piercing, poison",humanesque
-Bloodsprite,Tiny,NE,0.25,"Forest, Grassland, Hill, Swamp, Urban",MC,161,"walk, fly",Other 1,"piercing, poison",humanesque
-Fey Caterpillar,Large,CN,2,"Forest, Swamp",MOF,32,walk,"Other 1, Special Action 1","piercing, poison",animalesque
-Prince of Twilight,Medium,CE,13,"Forest, Swamp",MOF,67,walk,"Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Multiattack 4, Multiattack 5, Multiattack 6, Special Action 1","piercing, poison",unique
-Ala,Medium,CE,8,"Desert, Forest, Grassland, Urban",TOB,13,"walk, fly","Flyby, Other 1, Other 2, Multiattack 2, Special Action 1, Special Action 2","piercing, poison, slashing, lightning",elementalesque
-Dimcat,Tiny,CN,1,"Forest, Urban, Underdark",CFS,45,"walk, climb","Other 1, Magic Resistance, Other 2, Other 3, Special Action 1","piercing, psychic",animalesque
-Symphonic Songbird,Tiny,N,1,"Forest, Grassland, Hill, Mountain, Swamp",CFS,52,"walk, fly","Magic Resistance, Other 1, Other 2, Special Action 1","piercing, psychic",animalesque
-Yeth Hound,Large,NE,4,"Forest, Grassland, Hill",VGM,201,"walk, fly","Keen Hearing and Smell, Other 1, Other 1, Special Action 1","piercing, psychic",animalesque
-Darklng Elder,Medium,CN,2,"Forest, Swamp, Underdark, Urban",VGM,134,walk,"Other 1, Multiattack 2, Special Action 1","piercing, radiant",humanesque
-Water Horse,Medium,CE,4,"Coastal, Swamp, Underwater",CC,373,"walk, swim","Amphibious, Shapechanger, Multiattack 2, Special Action 1","piercing, slashing",shapechanger
-Wind Weasel,Medium,CN,2,Forest,CC,375,walk,"Other 1, Flyby, Other 2, Shapechanger, Other 3, Multiattack 2, Special Action 1","piercing, slashing",shapechanger
-Baba Yaga's Horsemen,Medium,LN,11,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",TOB,30,walk,"Innate Spellcasting, Magic Resistance, Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",humanesque
-Gerridae,Large,NE,1,"Coastal, Swamp",TOB,212,"walk, climb, swim","Other 1, Other 2, Multiattack 2","piercing, slashing",animalesque
-Rum Gremlin,Tiny,CE,0.5,"Coastal, Swamp, Urban",TOB,239,"walk, climb, swim","Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1","piercing, slashing",monsteresque
-Shadow Beast,Medium,CE,7,"Underdark, Urban",TOB,345,fly,"Other 1, Other 2, Innate Spellcasting, Magic Resistance, Other 3, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",monsteresque
-Shellycoast,Medium,NE,2,"Arctic, Coastal, Swamp, Mountain, Urban",TOB,346,"walk, swim","Innate Spellcasting, Other 1, Other 2, Other 3, Multiattack 2, Special Action 1","piercing, slashing",monsteresque
-Bear King,Medium,LN,12,"Hill, Mountain",TOB,186,walk,"Shapechanger, Keen Smell, Legendary, Other 1, Multiattack 2, Special Action 1, Special Action 2","piercing, slashing, bludgeoning",shapechanger
 Annis Hag,Large,CE,6,"Hill, Mountain",VGM,159,walk,"Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing, bludgeoning",monsteresque
-Azeban,Medium,CN,4,Forest,CC,44,"walk, climb","Other 1, Magic Resistance, Innate Spellcasting, Multiattack 1, Special Action 1","piercing, slashing, thunder",animalesque
-Undine,Medium,CN,5,"Coastal, Swamp, Underwater",CC,362,"walk, swim","Amphibious, Other 1, Shapechanger, Other 2, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2","psychic, bludgeoning, cold, ability",shapechanger
-Moonlit King,Medium,NG,17,"Arctic, Mountain, Underdark",TOB,190,walk,"Other 1, Innate Spellcasting, Legendary, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3, Special Action 4, Special Reaction 1","radiant, magical bludgeoning, necrotic",unique
-Queen of Cats,Large,CG,15,"Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",CC,33,"walk, climb","Other 1, Keen Smell, Legendary, Magic Resistance, Charge/Pounce, Other 2, Other 3, Shapechanger, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1","radiant, magical slashing, magical piercing",shapechanger
-Kappa,Small,CN,2,"Swamp, Underwater",CC,234,"walk, swim","Amphibious, Other 1, Other 2, Other 3, Other 4, Multiattack 2, Special Action 1",slashing,monsteresque
-Skitterwing,Tiny,NE,0.5,"Coastal, Swamp",MC,173,"walk, fly","Other 1, Other 2, Special Action 1",slashing,monsteresque
-Green Hag,Medium,NE,3,"Forest, Hill, Swamp",MM,177,walk,"Amphibious, Innate Spellcasting, Other 1, Special Action 1, Special Action 2",slashing,monsteresque
-Sea Hag,Medium,CE,2,"Coastal, Underwater",MM,179,"walk, swim","Amphibious, Other 1, Special Action 1, Special Action 2",slashing,monsteresque
-Sprite,Tiny,NG,0.25,Forest,MM,283,"walk, fly","Special Action 1, Special Action 2, Special Action 3",slashing,humanesque
-Arcane Stalker,Medium,CE,5,"Forest, Grassland, Swamp, Underdark, Urban",MOF,8,walk,"Innate Spellcasting, Magic Resistance, Other 1, Special Action 1, Special Reaction 1",slashing,monsteresque
-Everflower,Medium,CN,3,"Forest, Grassland, Hill, Urban",MOF,27,"walk, fly","Other 1, Other 2, Multiattack 2, Special Action 1",slashing,humanesque
-Siren,Medium,CE,4,"Coastal, Underwater",MOF,78,"walk, swim","Amphibious, Innate Spellcasting, Shapechanger, Multiattack 2, Special Action 1",slashing,monsteresque
-Hag Spy,Medium,NE,9,"Coastal, Swamp, Underwater",PCC,187,walk,"Amphibious, Innate Spellcasting, Other 1, Other 2, Special Action 1, Special Action 2",slashing,humanesque
-Shayonna the Gaunt,Medium,CE,5,"Coastal, Underwater",PCC,317,"walk, swim","Other 1, Multiattack 2, Special Action 1, Special Action 2, Special Action 3",slashing,unique
-Bereginyas,Tiny,NE,4,"Hill, Mountain",TOB,36,"walk, fly","Multiattack 2, Special Action 1",slashing,elementalesque
-Far Darrig,Small,N,3,"Arctic, Forest, Grassland, Hill, Mountain",TOB,179,walk,"Innate Spellcasting, Multiattack 2, Multiattack 3, Multiattack 4, Special Action 1, Special Action 2",slashing,humanesque
-Kikimora,Medium,CN,5,Urban,TOB,260,walk,"Magic Resistance, Innate Spellcasting, Multiattack 2, Special Action 1",slashing,monsteresque
-Malphas/Storm Crow,Medium,NE,6,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",TOB,283,"walk, fly","Innate Spellcasting, Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Reaction 1",slashing,monsteresque
-Nichny,Medium,NE,6,Forest,TOB,303,"walk, climb, swim","Other 1, Other 2, Innate Spellcasting, Other 3, Magic Resistance, Other 4, Multiattack 2",slashing,monsteresque
-Meenlock,Small,NE,2,"Forest, Swamp, Urban",VGM,170,walk,"Other 1, Other 2, Other 3, Special Action 1",slashing,monsteresque
-Redcap,Small,CE,3,"Forest, Hill, Swamp",VGM,188,walk,"Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","slashing, bludgeoning",humanesque
 Green Knight of the Woods,Medium,LN,6,Forest,CC,209,walk,"Other 1, Other 2, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Special Action 1, Special Reaction 1","slashing, bludgeoning, piercing",humanesque
-Snow Hag,Medium,NE,3,"Arctic, Mountain",CC,214,walk,"Other 1, Innate Spellcasting, Special Action 1, Special Action 2","slashing, cold",monsteresque
-Ice Princess,Medium,NE,11,"Arctic, Mountain",MOF,50,walk,"Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Reaction 1","slashing, cold",elementalesque
-Summer Eladrin,Medium,CN,10,"Desert, Forest",MTF,196,walk,"Other 1, Other 2, Magic Resistance, Special Reaction 1","slashing, fire, piercing",elf
-Typhoon Tess,Medium,Unaligned,12,"Coastal, Desert, Grassland, Hill, Mountain, Underwater",PCC,413,"walk, fly","Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","slashing, lightning",unique
-Witch King,Medium,CE,21,"Arctic, Forest, Hill, Mountain, Swamp",MOF,99,walk,"Other 1, Innate Spellcasting, Magical Resistance, Multiattack 2, Multiattack 3, Special Reaction 1","slashing, necrotic",unique
-Dullahan,Large,LE,11,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",TOB,161,walk,"Other 1, Other 2, Innate Spellcasting, Other 3, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","slashing, necrotic",monsteresque
-Red Hag,Medium,NE,7,"Coastal, Forest, Grassland, Hill, Swamp, Urban",TOB,244,"walk, swim","Amphibious, Innate Spellcasting, Magic Resistance, Other 1, Special Action 1","slashing, necrotic",humanesque
-Vile Barber,Small,CE,2,"Swamp, Urban",TOB,401,walk,"Other 1, Other 2, Other 3, Other 4, Other 5, Other 6, Multiattack 2, Special Action 1","slashing, necrotic",monsteresque
-Kallikantzaros,Small,CE,2,"Forest, Swamp",CC,233,walk,"Fey Ancestry, Other 1, Other 2, Multiattack 2, Special Action 1","slashing, piercing",monsteresque
-Water Nymph,Medium,CN,3,"Coastal, Swamp, Underwater",MC,172,"walk, swim","Other 1, Multiattack 2, Other 2, Other 3, Special Action 1","slashing, piercing",humanesque
-Fey Noble Elf,Medium,CG,8,"Forest, Grassland, Hill",MOF,25,walk,"Fey Ancestry, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1, Special Reaction 2","slashing, piercing",elf
-Master of the Hunt,Medium,CN,9,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,56,walk,"Other 1, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","slashing, piercing",unique
-Sprite Knight,Tiny,NG,2,"Forest, Grassland, Hill, Swamp",MOF,83,"walk, fly","Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Action 3","slashing, piercing",humanesque
+Ice Maiden,Medium,LE,6,"Arctic, Mountain",TOB,254,walk,"Other 1, Other 2, Other 3, Other 4, Magic Resistance, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4","piercing, cold",elementalesque
+Malphas/Storm Crow,Medium,NE,6,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",TOB,283,"walk, fly","Innate Spellcasting, Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Reaction 1",slashing,monsteresque
+Mirror Hag,Medium,CN,6,"Forest, Hill, Swamp",TOB,243,"walk, fly","Innate Spellcasting, Magic Resistance, Other 1, Multiattack 2, Special Action 1","piercing, bludgeoning, ability",monsteresque
+Nichny,Medium,NE,6,Forest,TOB,303,"walk, climb, swim","Other 1, Other 2, Innate Spellcasting, Other 3, Magic Resistance, Other 4, Multiattack 2",slashing,monsteresque
+Scheznyki,Small,CE,6,"Hill, Mountain, Underdark",TOB,339,"walk, climb, swim","Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Multiattack 4",piercing,humanesque
 Selkie,Medium,CN,6,"Coastal, Underwater",PCC,293,"walk, swim","Hold Breath, Other 1, Magic Resistance, Other 2, Keen Smell, Multiattack 2, Special Action 1, Special Action 2","slashing, piercing",humanesque
-Miremal,Small,CE,0.5,Swamp,TOB,292,"walk, swim","Amphibious, Camouflage, Other 1, Multiattack 2, Special Action 1, Special Reaction 1","slashing, piercing",monsteresque
-Winter Eladrin,Medium,CN,10,"Arctic, Forest",MTF,197,walk,"Other 1, Innate Spellcasting, Magic Resistance, Other 2, Special Reaction 1","slashing, piercing, cold",elf
-Fatespinner,Medium,N,5,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CSF,,"walk, climb","Other 1, Other 2, Other 3, Other 4, Other 5, Multiattack 2, Multiattack 3, Multiattack 4, Multiattack 5, Special Action 1, Special action 2","slashing, piercing, poison",animalesque
-Ink Lynx,Large,CN,5,"Forest, Urban, Underdark",CFS,26,"walk, climb","Other 1, Other 2, Other 3, Multiattack 2, Multiattack 3, Special Action 1","slashing, piercing, psychic",animalesque
-Autumn Faerie,Tiny,CE,0.5,"Forest, Grassland, Swamp",MOF,28,"walk, fly","Innate Spellcasting, Magic Resistance","slashing, poison",humanesque
-Eleinomae,Medium,CE,5,"Coastal, Swamp",TOB,168,"walk, swim","Other 1, Other 2, Innate Spellcasting, Multiattack 2, Multiattack 3, Multiattack 3, Special Action 1","slashing, poison",humanesque
+Spirit Flower,Small,CG,6,Desert,MC,174,walk,"Other 1, Innate Spellcasting, Other 2, Other 3",bludgeoning,humanesque
 Toadman,Medium,CE,6,"Forest, Swamp",MOF,89,"walk, swim","Amphibious, Innate Spellcasting, Leap, Magic Resistance, Other 1, Camouflage, Multiattack 2, Special Action 1","slashing, poison, piercing",monsteresque
+Bheur Hag,Medium,CE,7,Arctic,VGM,160,walk,"Other 1, Other 2, Innate Spellcasting, Special Action 1","bludgeoning, cold",monsteresque
+Forest Hag,Medium,CE,7,"Forest, Swamp",MOF,44,walk,"Innate Spellcasting, Magic Resistance, Other 1, Speak with Beasts and Plants, Multiattack 2, Special Action 1, Special Action 2","bludgeoning, poison, slashing",monsteresque
+Ijiraq,Medium,CN,7,"Arctic, Forest, Mountain",CC,225,walk,"Other 1, Multiattack 2, Special Action 1, Special Action 2","magical piercing, poison, magical slashing",monsteresque
+Korred,Small,CN,7,Forest,VGM,168,"walk, burrow","Other 1, Innate Spellcasting, Camouflage, Other 2, Multiattack 2",bludgeoning,elementalesque
+Nereid,Medium,CN,7,"Coastal, Underwater",PCC,287,"walk, swim","Innate Spellcasting, Magic Resistance, Other 1, Other 2, Other 3, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4",none,humanesque
+Prince of the Pipes,Medium,CN,7,"Forest, Grassland, Hill, Mountain",MOF,66,walk,"Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1","bludgeoning, piercing",unique
+Red Hag,Medium,NE,7,"Coastal, Forest, Grassland, Hill, Swamp, Urban",TOB,244,"walk, swim","Amphibious, Innate Spellcasting, Magic Resistance, Other 1, Special Action 1","slashing, necrotic",humanesque
+Shadow Beast,Medium,CE,7,"Underdark, Urban",TOB,345,fly,"Other 1, Other 2, Innate Spellcasting, Magic Resistance, Other 3, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",monsteresque
+Ala,Medium,CE,8,"Desert, Forest, Grassland, Urban",TOB,13,"walk, fly","Flyby, Other 1, Other 2, Multiattack 2, Special Action 1, Special Action 2","piercing, poison, slashing, lightning",elementalesque
+Fey Noble Elf,Medium,CG,8,"Forest, Grassland, Hill",MOF,25,walk,"Fey Ancestry, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1, Special Reaction 2","slashing, piercing",elf
+The Storyweaver,Medium,CN,8,"Arctic, Coastal, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,84,walk,"Innate Spellcasting, Other 1, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2",bludgeoning,unique
+Conclave Dryad,Medium,LG,9,"Forest, Grassland, Hill, Swamp, Urban",GGR,194,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","bludgeoning, piercing",humanesque
+Hag Spy,Medium,NE,9,"Coastal, Swamp, Underwater",PCC,187,walk,"Amphibious, Innate Spellcasting, Other 1, Other 2, Special Action 1, Special Action 2",slashing,humanesque
+Harvest Maiden,Medium,CE,9,"Forest, Grassland",MOF,45,walk,"Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Special Action 1, Special Action 2",bludgeoning,humanesque
+Master of the Hunt,Medium,CN,9,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,56,walk,"Other 1, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","slashing, piercing",unique
+The Hatter,Medium,CN,9,"Forest, Swamp",MOF,47,walk,"Fey Ancestry, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Action 4",none,unique
+Thresholder,Large,Unaligned,9,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Urban",MOF,87,walk,"Other 1, Magic Resistance, Multiattack 2, Multiattack 3",bludgeoning,humanesque
+Autumn Eladrin,Medium,CN,10,Forest,MTF,195,walk,"Other 1, Other 2, Innate Spellcasting, Magic Resistance, Special Reaction 1","slashing, pyschic, piercing",elf
 Fear Smith/Fiarsidhe,Medium,CN,10,"Arctic, Mountain, Swamp, Underdark",TOB,181,"walk, climb","Other 1, Other 2, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","slashing, psychic",monsteresque
 Spring Eladrin,Medium,CN,10,"Forest, Grassland",MTF,196,walk,"Other 1, Innate Spellcasting, Other 2, Magic Resistance, Multiattack 2","slashing, psychic, piercing",elf
-Autumn Eladrin,Medium,CN,10,Forest,MTF,195,walk,"Other 1, Other 2, Innate Spellcasting, Magic Resistance, Special Reaction 1","slashing, pyschic, piercing",elf
-Fey Knight Elf,Medium,CG,3,"Forest, Grassland, Hill",MOF,24,walk,"Fey Ancestry, Magic Resistance, Multiattack 2, Special Reaction 1, Special Reaction 2","slashing, radiant, piercing",elf
-Chernomoi,Tiny,N,1,"Hill, Mountain, Urban",TOB,55,"walk, fly","Innate Spellcasting, Special Action 1","slashing, thunder",humanesque
+Summer Eladrin,Medium,CN,10,"Desert, Forest",MTF,196,walk,"Other 1, Other 2, Magic Resistance, Special Reaction 1","slashing, fire, piercing",elf
+Tree of Dread,Huge,CE,10,"Forest, Swamp",MOF,90,walk,"Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1",bludgeoning,plantesque
+Winter Eladrin,Medium,CN,10,"Arctic, Forest",MTF,197,walk,"Other 1, Innate Spellcasting, Magic Resistance, Other 2, Special Reaction 1","slashing, piercing, cold",elf
+Abominable Beauty,Medium,NE,11,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Urban",TOB,11,walk,"Multiattack 2, Special Action 1, Special Action 2, Special Action 3","bludgeoning, fire",humanesque
+Baba Yaga's Horsemen,Medium,LN,11,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",TOB,30,walk,"Innate Spellcasting, Magic Resistance, Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","piercing, slashing",humanesque
+Blood Hag,Medium,CE,11,"Swamp, Mountain, Underdark",TOB,242,"walk, climb, swim","Other 1, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","piercing, necrotic, slashing",monsteresque
+Dullahan,Large,LE,11,"Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",TOB,161,walk,"Other 1, Other 2, Innate Spellcasting, Other 3, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","slashing, necrotic",monsteresque
+Ice Princess,Medium,NE,11,"Arctic, Mountain",MOF,50,walk,"Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Reaction 1","slashing, cold",elementalesque
+Mouse King,Small,N,11,Urban,CC,29,"walk, climb","Keen Sight, Legendary, Magic Resistance, Other 1, Other 2, Shapechanger, Other 3, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","magical piercing, poison",shapechanger
+Riverwind,Medium,CN,11,"Forest, Grassland, Hill",MOF,72,walk,"Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1","magical piercing, bludgeoning",unique
+Bear King,Medium,LN,12,"Hill, Mountain",TOB,186,walk,"Shapechanger, Keen Smell, Legendary, Other 1, Multiattack 2, Special Action 1, Special Action 2","piercing, slashing, bludgeoning",shapechanger
+Lord of Vultures,Large,NG,12,"Desert, Mountain, Underdark",CC,26,"walk, fly","Other 1, Other 2, Legendary, Magic Resistance, Pack Tactics, Other 3, Shapechanger, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","magical piercing, radiant, magical slashing, bludgeoning",shapechanger
+Orchid,Medium,CN,12,"Forest, Grassland, Hill",MOF,64,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2",magical slashing,unique
+Queen of Serpents,Medium,LN,12,"Desert, Forest, Mountain, Swamp",CC,34,"walk, climb, swim","Other 1, Keen Smell, Legendary, Magic Resistance, Other 2, Other 3, Shapechanger, Other 4, Innate Spellcasting Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","magical bludgeoning, magical piercing, poison",shapechanger
+Reynard,Medium,CN,12,"Forest, Mountain, Underdark",CC,156,walk,"Legendary, Shapechanger, Multiattack 2, Special Action 1, Special Action 2, Special Action 3, Special Reaction 1",magical piercing,shapechanger
+The Lady of the Swans,Medium,NG,12,"Coastal, Swamp, Underwater",MOF,51,"walk, swim","Amphibious, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Special Action 1, Special Action 2, Special Reaction 1",force,unique
+Typhoon Tess,Medium,Unaligned,12,"Coastal, Desert, Grassland, Hill, Mountain, Underwater",PCC,413,"walk, fly","Other 1, Other 2, Multiattack 2, Multiattack 3, Special Action 1","slashing, lightning",unique
+Bat King,Small,N,13,"Forest, Mountain, Swamp, Underdark, Urban",CC,22,"walk, fly","Other 1, Keen Hearing, Legendary, Magic Resistance, Other 2, Shapechanger, Other 3, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Action 3","magical piercing, magical bludgeoning, thunder",shapechanger
 Inu,Gargantuan,N,13,"Forest, Grassland, Hill, Mountain",KC,,walk,"Other 1, Legendary, Special Action 1, Special Action 2","thunder, piercing",unique
+Mountain Queen,Large,CN,13,Mountain,SSSL,,"walk, burrow","Other 1, Other 2, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1",bludgeoning,unique
+Prince of Twilight,Medium,CE,13,"Forest, Swamp",MOF,67,walk,"Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Multiattack 3, Multiattack 4, Multiattack 5, Multiattack 6, Special Action 1","piercing, poison",unique
+Frog Witch,Medium,CE,14,"Swamp, Underwater",MOF,34,walk,"Amphibious, Innate Spellcasting, Leap, Magic Resistance, Other 1, Special Action 1, Special Action 2, Special Action 3","magical bludgeoning, magical piercing, poison, thunder",monsteresque
+Queen of Birds,Large,CN,14,Mountain,CC,31,"walk, fly","Other 1, Flyby, Legendary, Magic Resistance, Other 2, Shapechanger, Other 3, Other 4, Innate Spellcasting Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","magical slashing, lightning, thunder, magical piercing",shapechanger
+Queen of Cats,Large,CG,15,"Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban",CC,33,"walk, climb","Other 1, Keen Smell, Legendary, Magic Resistance, Charge/Pounce, Other 2, Other 3, Shapechanger, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1","radiant, magical slashing, magical piercing",shapechanger
+Berchta,Medium,LN,16,"Coastal, Forest, Mountain, Swamp, Urban",CC,154,"walk, swim, fly","Other 1, Legendary, Shapechanger, Innate Spellcasting, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","force, slashing",shapechanger
+Brother Ox,Huge,LN,16,Mountain,CC,25,walk,"Other 1, Charge/Pounce, Legendary, Magic Resistance, Rejuvenation, Shapechanger, Other 2, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1","magical piercing, magical bludgeoning, necrotic",shapechanger
+Crystal Queen/Queen of Giants,Medium,NE,16,"Arctic, Mountain",TOB,198,walk,"Innate Spellcasting, Legendary, Other 1, Multiattack 2, Special Action 1, Special Action 2, Special Reaction 1","cold, magical slashing, magical piercing",unique
+River King,Medium,CN,16,"Coastal, Swamp, Underwater",TOB,196,"walk, swim","Amphibious, Innate Spellcasting, Legendary, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Reaction 1","lightning, magical slashing, bludgeoning",unique
+The Oak Lord,Large,CG,16,"Forest, Grassland, Hill",MOF,60,walk,"Innate Spellcasting, Magic Resistance, Shapechanger, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1","magical slashing, magical bludgeoning",unique
+Frost Lord,Medium,NE,17,"Arctic, Mountain",MOF,35,walk,"Other 1, Innate Spellcasting, Magic Resistance, Other 2, Special Action 1, Special Action 2, Special Reaction 1",cold,unique
+Moonlit King,Medium,NG,17,"Arctic, Mountain, Underdark",TOB,190,walk,"Other 1, Innate Spellcasting, Legendary, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3, Special Action 4, Special Reaction 1","radiant, magical bludgeoning, necrotic",unique
+Queen of Witches,Large,N,17,Mountain,TOB,194,"walk, fly","Other 1, Innate Spellcasting, Magic Resistance, Legendary, Other 2, Multiattack 2, Special Action 1","magical bludgeoning, radiant, force",unique
+Lord of the Hunt,Medium,LN,18,"Forest, Grassland, Hill",TOB,188,walk,"Other 1, Innate Spellcasting, Legendary, Multiattack 2, Multiattack 3, Special Action 1, Special Reaction 1","magical piercing, poison",unique
+Trostani,Large,NG,18,"Forest, Urban",GGR,252,walk,"Innate Spellcasting, Legendary, Magic Resistance, Speak with Beasts and Plants, Other 1, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","magical bludgeoning, radiant, slashing",
+Baba Yaga,Medium,CN,20,"Coastal, Forest, Grassland, Hill, Swamp, Underdark, Urban",CC,46,"walk, fly","Other 1, Other 2, Other 3, Legendary, Other 4, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3, Special Reaction 1","bludgeoning, piercing, necrotic",unique
+King Oberon,Medium,CG,20,"Forest, Grassland, Hill",MOF,61,walk,"Innate Spellcasting, Magic Resistance, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2","magical slashing, radiant",unique
+Snow Queen,Medium,CE,20,"Arctic, Mountain",MOF,82,walk,"Other 1, Innate Spellcasting, Magic Resistance, Multiattack 2, Special Action 1, Special Reaction 1","piercing, cold",unique
+Queen of Night and Magic,Medium,NE,21,"Arctic, Mountain, Underdark",TOB,192,"walk, fly","Legendary, Magic Resistance, Other 1, Innate Spellcasting, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3, Special Reaction 1","piercing, cold, radiant",unique
+Witch King,Medium,CE,21,"Arctic, Forest, Hill, Mountain, Swamp",MOF,99,walk,"Other 1, Innate Spellcasting, Magical Resistance, Multiattack 2, Multiattack 3, Special Reaction 1","slashing, necrotic",unique
+Queen Titania,Medium,CG,23,Forest,MOF,88,"walk, fly","Innate Spellcasting, Other 1, Magical Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1","magical piercing, radiant",unique
+Skeleton King,Medium,CE,24,"Desert, Forest, Grassland, Swamp",MOF,80,"walk, climb","Innate Spellcasting, Magical Resistance, Other 1, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","bludgeoning, necrotic",unique
+The Elder Tree,Huge,N,24,Forest,MOF,23,none,"Other 1, Other 2, Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Multiattack 4, Multiattack 5, Special Action 1, Special Action 2",bludgeoning,unique
+The Queen of Darkness,Medium,CE,25,"Arctic, Forest, Hill, Mountain, Swamp",MOF,69,"walk, fly","Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Multiattack 2, Multiattack 3, Special Action 1, Special Action 2, Special Action 3","magical slashing, lightning",unique
